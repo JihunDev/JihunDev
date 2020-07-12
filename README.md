@@ -8,7 +8,7 @@
 ---
 - 🏠Blog: [Jihun`s Dev Note](https://jihundev.github.io/)
 - 📚TIL: [Jihun2TIL](https://jihun2til.netlify.app/)
-- 📩Linkedin: [JIhun Kim](https://www.linkedin.com/in/jihun-kim) 
+- 📩Linkedin: [Jihun Kim](https://www.linkedin.com/in/jihun-kim) 
 
 <!--
 **JihunDev/JihunDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
