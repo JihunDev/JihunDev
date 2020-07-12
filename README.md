@@ -1,4 +1,5 @@
-### Hi there 👋
+<h3 align="center">👋 Hi! I'm Jihun.</h3>
+<p align="center">Embedded Linux system development and autonomous driving system development ✨</p>
 
 - 🔭 I’m currently working on researching autonomous driving and working on GNSS RTK and IMU.
 - 🌱 I’m currently learning on Python and Django.
