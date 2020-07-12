@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on researching autonomous driving and working on GNSS RTK and IMU.
 - 🌱 I’m currently learning on Python and Django.
-
+- 😄 Pronouns: Embedded Linux, Autonomus Driving, Firmware
 
 <!--
 **JihunDev/JihunDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
