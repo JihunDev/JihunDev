@@ -1,4 +1,4 @@
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihunDev)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihunDev)](https://hits.seeyoufarm.com)
 
 ---
 <h3 align="center">👋 Hi! I'm Jihun.</h3>
