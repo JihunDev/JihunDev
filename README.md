@@ -1,7 +1,4 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihunDev)
-![Website](https://img.shields.io/website?label=Blog&up_color=Blue&up_message=Online&url=https://jihundev.github.io/)
-![Website](https://img.shields.io/website?label=TIL&up_color=Yellow&up_message=Online&url=https://jihun2til.netlify.app/)
-![Website](https://img.shields.io/website?color=Green&down_message=Online&label=LinkedIn&url=https://www.linkedin.com/in/jihun-kim)
 
 ---
 <h3 align="center">👋 Hi! I'm Jihun.</h3>
@@ -10,18 +7,14 @@
 - 🔭 I’m currently working on researching autonomous driving and working on GNSS RTK and IMU.
 - 🌱 I’m currently learning on Python and Django.
 - 😄 Pronouns: Embedded Linux, Autonomus Driving, Firmware
+- 📫 My Website:
+  - 🏠Blog: [Jihun`s Dev Note](https://jihundev.github.io/)
+  - 📚TIL: [Jihun2TIL](https://jihun2til.netlify.app/)
+  - 📩Linkedin: [Jihun Kim](https://www.linkedin.com/in/jihun-kim) 
 
 ---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JihunDev&show_icons=true)
 
-
-
-<!--
----
-- 🏠Blog: [Jihun`s Dev Note](https://jihundev.github.io/)
-- 📚TIL: [Jihun2TIL](https://jihun2til.netlify.app/)
-- 📩Linkedin: [Jihun Kim](https://www.linkedin.com/in/jihun-kim) 
--->
 <!--
 **JihunDev/JihunDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
