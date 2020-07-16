@@ -1,7 +1,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihunDev)
-![Website](https://img.shields.io/website?label=Blog&up_color=Blue&up_message=Online&url=https%3A%2F%2Fjihundev.github.io%2F)
-![Website](https://img.shields.io/website?label=TIL&up_color=Yellow&up_message=Online&url=https%3A%2F%2Fjihun2til.netlify.app%2F%23%2F)
-![Website](https://img.shields.io/website?color=Green&down_message=Online&label=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjihun-kim)
+![Website](https://img.shields.io/website?label=Blog&up_color=Blue&up_message=Online&url=https://jihundev.github.io/)
+![Website](https://img.shields.io/website?label=TIL&up_color=Yellow&up_message=Online&url=https://jihun2til.netlify.app/)
+![Website](https://img.shields.io/website?color=Green&down_message=Online&label=LinkedIn&url=https://www.linkedin.com/in/jihun-kim)
 
 ---
 <h3 align="center">👋 Hi! I'm Jihun.</h3>
