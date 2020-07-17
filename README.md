@@ -2,7 +2,8 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihunDev)](https://hits.seeyoufarm.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jihundev.github.io/)](https://jihundev.github.io/)
-[![TIL Blog Badge](http://img.shields.io/badge/-TIL%20blog-black?style=flat-square&logo=github&link=https://jihun2til.netlify.app/#/)](https://jihun2til.netlify.app/#/)
+[![TIL Blog Badge](http://img.shields.io/badge/-TIL%20blog-00C7B7?style=flat-square&logo=netlify&link=https://jihun2til.netlify.app/#/)](https://jihun2til.netlify.app/#/)
+[![StackOverFlow Badge](http://img.shields.io/badge/-StackOverFlow-FE7A16?style=flat-square&logo=stackoverflow&link=https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)](https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihun-kim/)](https://www.linkedin.com/in/jihun-kim/) 
 </div>
 
