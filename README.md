@@ -13,11 +13,18 @@
 
 - 🔭 I’m currently working on researching autonomous driving and working on GNSS RTK and IMU.
 - 🌱 I’m currently learning on Python and Django.
+- 💬 Ask me about C,Cpp and Python
+- 📫 How to reach me: My E-Mail
 - 😄 Pronouns: Embedded Linux, Autonomus Driving, Firmware
 
 ---
-<div align=center>
+<details>
+  <summary>Some other facts about me-e-e</summary>
+  <br>
+  
+  
+  <div align=center>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JihunDev&show_icons=true)
-</div>
-
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JihunDev&show_icons=true)
+  </div>
+</details>
