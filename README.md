@@ -14,9 +14,11 @@
 - 🔭 I’m currently working on researching autonomous driving and working on GNSS RTK and IMU.
 - 🌱 I’m currently learning on Python and Django.
 - 💬 Ask me about C,Cpp and Python
-- 📫 How to reach me: My E-Mail
+- 📫 How to reach me: e-Mail
 - 😄 Pronouns: Embedded Linux, Autonomus Driving, Firmware
-
+- 👍 Favorite programming quote
+> "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
+> - Linus Torvalds
 ---
 <details>
   <summary>Some other facts about me-e-e</summary>
@@ -27,4 +29,43 @@
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JihunDev&show_icons=true)
   </div>
+
+---
+<h3>My skills include</h3>
+
+  
+  - Language
+  
+    <img src="https://simpleicons.org/icons/c.svg" width="40">
+    <img src="https://simpleicons.org/icons/cplusplus.svg" width="40">
+    <img src="https://simpleicons.org/icons/python.svg" width="40">
+    <img src="https://simpleicons.org/icons/javascript.svg" width="40">
+    <img src="https://simpleicons.org/icons/html5.svg" width="40">
+    <img src="https://simpleicons.org/icons/css3.svg" width="40">
+    
+  - Framework
+  
+    <img src="https://simpleicons.org/icons/django.svg" width="40">
+    <img src="https://simpleicons.org/icons/tailwindcss.svg" width="40">
+    
+  - Databases
+  
+    <img src="https://simpleicons.org/icons/mysql.svg" width="40">
+    <img src="https://simpleicons.org/icons/mariadb.svg" width="40">
+
+  - Cloud Servers
+  
+    <img src="https://simpleicons.org/icons/amazonaws.svg" width="40">
+  
+  - Tools
+  
+    <img src="https://simpleicons.org/icons/git.svg" width="40">
+    <img src="https://simpleicons.org/icons/cmake.svg" width="40">
+    <img src="https://simpleicons.org/icons/docker.svg" width="40">
+    <img src="https://simpleicons.org/icons/vim.svg" width="40">
+    <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="40">
+    
 </details>
+
+
+
