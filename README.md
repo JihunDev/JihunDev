@@ -64,6 +64,22 @@
     <img src="https://simpleicons.org/icons/docker.svg" width="40">
     <img src="https://simpleicons.org/icons/vim.svg" width="40">
     <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="40">
+    <img src="https://simpleicons.org/icons/octave.svg" width="40">
+    <img src="https://simpleicons.org/icons/postman.svg" width="40">
+   
+  - OS
+  
+    <img src="https://simpleicons.org/icons/apple.svg" width="40">
+    <img src="https://simpleicons.org/icons/ubuntu.svg" width="40">
+
+- Collaboration tools
+  
+    <img src="https://simpleicons.org/icons/slack.svg" width="40">
+    <img src="https://simpleicons.org/icons/jira.svg" width="40">
+    <img src="https://simpleicons.org/icons/confluence.svg" width="40">
+    <img src="https://simpleicons.org/icons/github.svg" width="40">
+    <img src="https://simpleicons.org/icons/figma.svg" width="40">
+    <img src="https://simpleicons.org/icons/notion.svg" width="40">
     
 </details>
 
