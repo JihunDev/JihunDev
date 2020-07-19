@@ -36,50 +36,50 @@
   
   - Language
   
-    <img src="https://simpleicons.org/icons/c.svg" width="40">
-    <img src="https://simpleicons.org/icons/cplusplus.svg" width="40">
-    <img src="https://simpleicons.org/icons/python.svg" width="40">
-    <img src="https://simpleicons.org/icons/javascript.svg" width="40">
-    <img src="https://simpleicons.org/icons/html5.svg" width="40">
-    <img src="https://simpleicons.org/icons/css3.svg" width="40">
+    <img src="https://simpleicons.org/icons/c.svg" width="30">
+    <img src="https://simpleicons.org/icons/cplusplus.svg" width="30">
+    <img src="https://simpleicons.org/icons/python.svg" width="30">
+    <img src="https://simpleicons.org/icons/javascript.svg" width="30">
+    <img src="https://simpleicons.org/icons/html5.svg" width="30">
+    <img src="https://simpleicons.org/icons/css3.svg" width="30">
     
   - Framework
   
-    <img src="https://simpleicons.org/icons/django.svg" width="40">
-    <img src="https://simpleicons.org/icons/tailwindcss.svg" width="40">
+    <img src="https://simpleicons.org/icons/django.svg" width="30">
+    <img src="https://simpleicons.org/icons/tailwindcss.svg" width="30">
     
   - Databases
   
-    <img src="https://simpleicons.org/icons/mysql.svg" width="40">
-    <img src="https://simpleicons.org/icons/mariadb.svg" width="40">
+    <img src="https://simpleicons.org/icons/mysql.svg" width="30">
+    <img src="https://simpleicons.org/icons/mariadb.svg" width="30">
 
   - Cloud Servers
   
-    <img src="https://simpleicons.org/icons/amazonaws.svg" width="40">
+    <img src="https://simpleicons.org/icons/amazonaws.svg" width="30">
   
   - Tools
   
-    <img src="https://simpleicons.org/icons/git.svg" width="40">
-    <img src="https://simpleicons.org/icons/cmake.svg" width="40">
-    <img src="https://simpleicons.org/icons/docker.svg" width="40">
-    <img src="https://simpleicons.org/icons/vim.svg" width="40">
-    <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="40">
-    <img src="https://simpleicons.org/icons/octave.svg" width="40">
-    <img src="https://simpleicons.org/icons/postman.svg" width="40">
+    <img src="https://simpleicons.org/icons/git.svg" width="30">
+    <img src="https://simpleicons.org/icons/cmake.svg" width="30">
+    <img src="https://simpleicons.org/icons/docker.svg" width="30">
+    <img src="https://simpleicons.org/icons/vim.svg" width="30">
+    <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="30">
+    <img src="https://simpleicons.org/icons/octave.svg" width="30">
+    <img src="https://simpleicons.org/icons/postman.svg" width="30">
    
   - OS
   
-    <img src="https://simpleicons.org/icons/apple.svg" width="40">
-    <img src="https://simpleicons.org/icons/ubuntu.svg" width="40">
+    <img src="https://simpleicons.org/icons/apple.svg" width="30">
+    <img src="https://simpleicons.org/icons/ubuntu.svg" width="30">
 
 - Collaboration tools
   
-    <img src="https://simpleicons.org/icons/slack.svg" width="40">
-    <img src="https://simpleicons.org/icons/jira.svg" width="40">
-    <img src="https://simpleicons.org/icons/confluence.svg" width="40">
-    <img src="https://simpleicons.org/icons/github.svg" width="40">
-    <img src="https://simpleicons.org/icons/figma.svg" width="40">
-    <img src="https://simpleicons.org/icons/notion.svg" width="40">
+    <img src="https://simpleicons.org/icons/slack.svg" width="30">
+    <img src="https://simpleicons.org/icons/jira.svg" width="30">
+    <img src="https://simpleicons.org/icons/confluence.svg" width="30">
+    <img src="https://simpleicons.org/icons/github.svg" width="30">
+    <img src="https://simpleicons.org/icons/figma.svg" width="30">
+    <img src="https://simpleicons.org/icons/notion.svg" width="30">
     
 </details>
 
