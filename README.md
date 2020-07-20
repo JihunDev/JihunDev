@@ -39,6 +39,7 @@
     <img src="https://simpleicons.org/icons/c.svg" width="30">
     <img src="https://simpleicons.org/icons/cplusplus.svg" width="30">
     <img src="https://simpleicons.org/icons/python.svg" width="30">
+    <img src="https://simpleicons.org/icons/node-dot-js.svg" width="30">
     <img src="https://simpleicons.org/icons/javascript.svg" width="30">
     <img src="https://simpleicons.org/icons/html5.svg" width="30">
     <img src="https://simpleicons.org/icons/css3.svg" width="30">
@@ -47,6 +48,7 @@
   
     <img src="https://simpleicons.org/icons/django.svg" width="30">
     <img src="https://simpleicons.org/icons/tailwindcss.svg" width="30">
+    <img src="https://simpleicons.org/icons/electron.svg" width="30">
     
   - Databases
   
