@@ -58,6 +58,7 @@
   - Cloud Servers
   
     <img src="https://simpleicons.org/icons/amazonaws.svg" width="30">
+    <img src="https://simpleicons.org/icons/netlify.svg" width="30">
   
   - Tools
   
