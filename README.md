@@ -63,6 +63,7 @@
   - Tools
   
     <img src="https://simpleicons.org/icons/git.svg" width="30">
+    <img src="https://simpleicons.org/icons/githubactions.svg" width="30">
     <img src="https://simpleicons.org/icons/cmake.svg" width="30">
     <img src="https://simpleicons.org/icons/docker.svg" width="30">
     <img src="https://simpleicons.org/icons/vim.svg" width="30">
