@@ -48,6 +48,7 @@
   
     <img src="https://simpleicons.org/icons/django.svg" width="30">
     <img src="https://simpleicons.org/icons/tailwindcss.svg" width="30">
+    <img src="https://simpleicons.org/icons/jekyll.svg" width="30">
     <img src="https://simpleicons.org/icons/electron.svg" width="30">
     
   - Databases
