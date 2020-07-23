@@ -85,6 +85,8 @@
     <img src="https://simpleicons.org/icons/github.svg" width="30">
     <img src="https://simpleicons.org/icons/figma.svg" width="30">
     <img src="https://simpleicons.org/icons/notion.svg" width="30">
+    <img src="https://simpleicons.org/icons/googledrive.svg" width="30">
+    <img src="https://simpleicons.org/icons/googlecalendar.svg" width="30">
     
 </details>
 
