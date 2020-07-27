@@ -38,6 +38,7 @@
   
     <img src="https://simpleicons.org/icons/c.svg" width="30">
     <img src="https://simpleicons.org/icons/cplusplus.svg" width="30">
+    <img src="https://simpleicons.org/icons/java.svg" width="30">
     <img src="https://simpleicons.org/icons/python.svg" width="30">
     <img src="https://simpleicons.org/icons/node-dot-js.svg" width="30">
     <img src="https://simpleicons.org/icons/javascript.svg" width="30">
