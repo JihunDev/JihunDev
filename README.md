@@ -61,6 +61,17 @@
   
     <img src="https://simpleicons.org/icons/amazonaws.svg" width="30">
     <img src="https://simpleicons.org/icons/netlify.svg" width="30">
+   
+  - OS
+  
+    <img src="https://simpleicons.org/icons/apple.svg" width="30">
+    <img src="https://simpleicons.org/icons/ubuntu.svg" width="30">
+  
+  - IDE
+  
+    <img src="https://simpleicons.org/icons/vim.svg" width="30">
+    <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="30">
+    <img src="https://simpleicons.org/icons/octave.svg" width="30">
   
   - Tools
   
@@ -68,24 +79,15 @@
     <img src="https://simpleicons.org/icons/githubactions.svg" width="30">
     <img src="https://simpleicons.org/icons/cmake.svg" width="30">
     <img src="https://simpleicons.org/icons/docker.svg" width="30">
-    <img src="https://simpleicons.org/icons/vim.svg" width="30">
-    <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="30">
-    <img src="https://simpleicons.org/icons/octave.svg" width="30">
     <img src="https://simpleicons.org/icons/postman.svg" width="30">
-   
-  - OS
   
-    <img src="https://simpleicons.org/icons/apple.svg" width="30">
-    <img src="https://simpleicons.org/icons/ubuntu.svg" width="30">
-
-- Collaboration tools
+  - Collaboration tools
   
     <img src="https://simpleicons.org/icons/slack.svg" width="30">
     <img src="https://simpleicons.org/icons/jira.svg" width="30">
     <img src="https://simpleicons.org/icons/confluence.svg" width="30">
     <img src="https://simpleicons.org/icons/github.svg" width="30">
     <img src="https://simpleicons.org/icons/figma.svg" width="30">
-    <img src="https://simpleicons.org/icons/notion.svg" width="30">
     <img src="https://simpleicons.org/icons/googledrive.svg" width="30">
     <img src="https://simpleicons.org/icons/googlecalendar.svg" width="30">
     
