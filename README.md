@@ -33,7 +33,7 @@
   
   <div align=center>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihunDev)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihunDev&layout=compact)
 
   </div>
 
