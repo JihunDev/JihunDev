@@ -28,6 +28,13 @@
   <div align=center>
 
   ![github stats](https://github-readme-stats.vercel.app/api?username=JihunDev&show_icons=true)
+
+  </div>
+  
+  <div align=center>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihunDev)
+
   </div>
 
 ---
