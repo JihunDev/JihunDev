@@ -27,7 +27,7 @@
   
   <div align=center>
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JihunDev&show_icons=true)
+  ![github stats](https://github-readme-stats.vercel.app/api?username=JihunDev&show_icons=true)
   </div>
 
 ---
