@@ -81,3 +81,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
 
 </details>
+
+<details>
+  <summary>Latest Blog Posts</summary>
+  <br>
+
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+
+</details>
