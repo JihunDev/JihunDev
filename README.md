@@ -55,7 +55,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" />
 
-    
   ### Databases
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
 
@@ -91,6 +90,6 @@
 - [HM-10 Bluetooth 모듈로 iBeacon 만들기](https://jihundev.github.io/HW-iBeacon_Command/)
 - [ubuntu NodeJs 설치](https://jihundev.github.io/Nodejs_install_nodejs_for_ubuntu/)
 - [RaspberryPi 3B+에 TensorFlow 설치](https://jihundev.github.io/HW-RaspberryPi3_install_Tensorflow/)
-<!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 
 </details>
