@@ -1,13 +1,15 @@
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihunDev)](https://hits.seeyoufarm.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jihundev.github.io/)](https://jihundev.github.io/)
-[![TIL Blog Badge](http://img.shields.io/badge/-TIL%20blog-00C7B7?style=flat-square&logo=netlify&logoColor=white&link=https://jihun2til.netlify.app/#/)](https://jihun2til.netlify.app/#/)
-[![Stack Over Flow Badge](http://img.shields.io/badge/-StackOverFlow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)](https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihun-kim/)](https://www.linkedin.com/in/jihun-kim/) 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihunDev)](https://hits.seeyoufarm.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jihundev.github.io/)](https://jihundev.github.io/)
+  [![TIL Blog Badge](http://img.shields.io/badge/-TIL%20blog-00C7B7?style=flat-square&logo=netlify&logoColor=white&link=https://jihun2til.netlify.app/#/)](https://jihun2til.netlify.app/#/)
+  [![Stack Over Flow Badge](http://img.shields.io/badge/-StackOverFlow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)](https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihun-kim/)](https://www.linkedin.com/in/jihun-kim/) 
+
 </div>
 
 ---
+
 <h3 align="center">👋 Hi! I'm Jihun.</h3>
 <p align="center">Embedded Linux system development and autonomous driving system development ✨</p>
 
@@ -17,27 +19,24 @@
 - 📫 How to reach me: e-Mail
 - 😄 Pronouns: Embedded Linux, Autonomus Driving, Firmware
 - 👍 Favorite programming quote
-> "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
-> - Linus Torvalds
+  > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
+  > - Linus Torvalds
+
 ---
+
 <details>
   <summary>Some other facts about me-e-e</summary>
   <br>
   
-  
   <div align=center>
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=JihunDev&show_icons=true)
+  ![github stats](https://github-readme-stats.vercel.app/api?username=JihunDev&show_icons=true)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihunDev)
 
   </div>
   
-  <div align=center>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihunDev&layout=compact)
-
-  </div>
-
 ---
+
 <h3>My skills include</h3>
   
   - Language
@@ -128,8 +127,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
 
-    
 </details>
-
-
-
