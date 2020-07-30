@@ -34,22 +34,14 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihunDev&layout=compact)
 
   </div>
-  
----
+</details>
 
-<h3>My skills include</h3>
+<details>
+  <summary>My skills include</summary>
+  <br>
   
   - Language
-    <!--
-    <img src="https://simpleicons.org/icons/c.svg" width="30">
-    <img src="https://simpleicons.org/icons/cplusplus.svg" width="30">
-    <img src="https://simpleicons.org/icons/java.svg" width="30">
-    <img src="https://simpleicons.org/icons/python.svg" width="30">
-    <img src="https://simpleicons.org/icons/node-dot-js.svg" width="30">
-    <img src="https://simpleicons.org/icons/javascript.svg" width="30">
-    <img src="https://simpleicons.org/icons/html5.svg" width="30">
-    <img src="https://simpleicons.org/icons/css3.svg" width="30">
-    -->
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
@@ -60,69 +52,37 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
     
   - Framework
-    <!--
-    <img src="https://simpleicons.org/icons/django.svg" width="30">
-    <img src="https://simpleicons.org/icons/tailwindcss.svg" width="30">
-    <img src="https://simpleicons.org/icons/jekyll.svg" width="30">
-    <img src="https://simpleicons.org/icons/electron.svg" width="30">
-    -->
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" />
 
     
   - Databases
-    <!--
-    <img src="https://simpleicons.org/icons/mysql.svg" width="30">
-    <img src="https://simpleicons.org/icons/mariadb.svg" width="30">
-    -->
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
 
   - Cloud Servers
-    <!--
-    <img src="https://simpleicons.org/icons/amazonaws.svg" width="30">
-    <img src="https://simpleicons.org/icons/netlify.svg" width="30">
-    -->
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="40" height="40" />
     
   - OS
-    <!--
-    <img src="https://simpleicons.org/icons/apple.svg" width="30">
-    <img src="https://simpleicons.org/icons/ubuntu.svg" width="30">
-    --> 
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
     
   - IDE
-    <!--
-    <img src="https://simpleicons.org/icons/vim.svg" width="30">
-    <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="30">
-    <img src="https://simpleicons.org/icons/octave.svg" width="30">
-    -->
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
 
   - Tools
-    <!--
-    <img src="https://simpleicons.org/icons/git.svg" width="30">
-    <img src="https://simpleicons.org/icons/githubactions.svg" width="30">
-    <img src="https://simpleicons.org/icons/cmake.svg" width="30">
-    <img src="https://simpleicons.org/icons/docker.svg" width="30">
-    <img src="https://simpleicons.org/icons/postman.svg" width="30">
-    -->
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
     
   - Collaboration tools
-    <!--
-    <img src="https://simpleicons.org/icons/slack.svg" width="30">
-    <img src="https://simpleicons.org/icons/jira.svg" width="30">
-    <img src="https://simpleicons.org/icons/confluence.svg" width="30">
-    <img src="https://simpleicons.org/icons/github.svg" width="30">
-    <img src="https://simpleicons.org/icons/figma.svg" width="30">
-    <img src="https://simpleicons.org/icons/googledrive.svg" width="30">
-    <img src="https://simpleicons.org/icons/googlecalendar.svg" width="30">
-    -->
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
