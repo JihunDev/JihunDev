@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 <h1 align="center">👋 Hi! I'm Jihun.</h3>
 <p align="center">Embedded Linux system development and autonomous driving system development ✨</p>
 <img align="right" alt="GIF" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
