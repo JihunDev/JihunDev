@@ -14,4 +14,4 @@ jobs:
       - uses: JihunDev/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://rss.app/feeds/JXUQc9AGhf9zLkZu.xml"
+          feed_list: "https://jihundev.github.io/feed.xml"
