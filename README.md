@@ -101,5 +101,7 @@
     
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
-
+  
+  ![Latest stack overflow activity](https://github.com/JihunDev/JihunDev/workflows/Latest%20stack%20overflow%20activity/badge.svg)
+  
 </details>
