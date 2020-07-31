@@ -10,6 +10,7 @@
 
 <h1 align="center">👋 Hi! I'm Jihun.</h3>
 <p align="center">Embedded Linux system development and autonomous driving system development ✨</p>
+
 <img align="right" alt="GIF" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 - 🔭 I’m currently working on researching autonomous driving and working on GNSS RTK and IMU.
@@ -82,7 +83,9 @@
 <details>
   <summary>Latest Blog Posts</summary>
   <br>
-    
+
+  ![Latest blog post workflow](https://github.com/JihunDev/JihunDev/workflows/Latest%20blog%20post%20workflow/badge.svg)
+
 <!-- BLOG-POST-LIST:START -->
 - [RaspberryPi Bluetooth Pairing](https://jihundev.github.io/HW-RaspberryPi3-Bluetooth_Pairing/)
 - [HM-10 Bluetooth 모듈로 iBeacon 만들기](https://jihundev.github.io/HW-iBeacon_Command/)
@@ -90,22 +93,19 @@
 - [RaspberryPi 3B+에 TensorFlow 설치](https://jihundev.github.io/HW-RaspberryPi3_install_Tensorflow/)
 <!-- BLOG-POST-LIST:END -->
 
-  ![Latest blog post workflow](https://github.com/JihunDev/JihunDev/workflows/Latest%20blog%20post%20workflow/badge.svg)
-
 </details>
-
 
 <details>
   <summary>Latest StackOverFlow Posts</summary>
   <br>
-    
+  
+  ![Latest stack overflow activity](https://github.com/JihunDev/JihunDev/workflows/Latest%20stack%20overflow%20activity/badge.svg)  
+
 <!-- STACKOVERFLOW:START -->
 - [Comment by Jihun Kim on Car speed measurement using 3-axis accelerometer](https://stackoverflow.com/questions/59171821/car-speed-measurement-using-3-axis-accelerometer/59843250#59843250)
 - [Answer by Jihun Kim for dspic33ev Doesn't work after changing pin number](https://stackoverflow.com/questions/59421621/dspic33ev-doesnt-work-after-changing-pin-number/59448909#59448909)
 - [dspic33ev Doesn't work after changing pin number](https://stackoverflow.com/questions/59421621/dspic33ev-doesnt-work-after-changing-pin-number)
 - [Car speed measurement using 3-axis accelerometer](https://stackoverflow.com/questions/59171821/car-speed-measurement-using-3-axis-accelerometer)
 <!-- STACKOVERFLOW:END -->
-  
-  ![Latest stack overflow activity](https://github.com/JihunDev/JihunDev/workflows/Latest%20stack%20overflow%20activity/badge.svg)
-  
+    
 </details>
