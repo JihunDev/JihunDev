@@ -44,6 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -84,8 +85,6 @@
   <summary>Latest Blog Posts</summary>
   <br>
 
-  ![Latest blog post workflow](https://github.com/JihunDev/JihunDev/workflows/Latest%20blog%20post%20workflow/badge.svg)
-
 <!-- BLOG-POST-LIST:START -->
 - [RaspberryPi Bluetooth Pairing](https://jihundev.github.io/HW-RaspberryPi3-Bluetooth_Pairing/)
 - [HM-10 Bluetooth 모듈로 iBeacon 만들기](https://jihundev.github.io/HW-iBeacon_Command/)
@@ -98,9 +97,7 @@
 <details>
   <summary>Latest StackOverFlow Posts</summary>
   <br>
-  
-  ![Latest stack overflow activity](https://github.com/JihunDev/JihunDev/workflows/Latest%20stack%20overflow%20activity/badge.svg)  
-
+ 
 <!-- STACKOVERFLOW:START -->
 - [Comment by Jihun Kim on Car speed measurement using 3-axis accelerometer](https://stackoverflow.com/questions/59171821/car-speed-measurement-using-3-axis-accelerometer/59843250#59843250)
 - [Answer by Jihun Kim for dspic33ev Doesn't work after changing pin number](https://stackoverflow.com/questions/59421621/dspic33ev-doesnt-work-after-changing-pin-number/59448909#59448909)
