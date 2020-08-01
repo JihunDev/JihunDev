@@ -11,7 +11,7 @@
 <h1 align="center">👋 Hi! I'm Jihun.</h3>
 <p align="center">Embedded Linux system development and autonomous driving system development ✨</p>
 
-<img align="right" alt="GIF" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" alt="GIF" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
 - 🔭 I’m currently working on researching autonomous driving and working on GNSS RTK and IMU.
 - 🌱 I’m currently learning on Python and Django.
