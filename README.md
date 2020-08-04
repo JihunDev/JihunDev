@@ -20,7 +20,7 @@
 - 😄 Pronouns: Embedded Linux, Autonomus Driving, Firmware
 - 👍 Favorite programming quote
   > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
-  > - Linus Torvalds
+  > - Linus Torval
 
 ---
 
@@ -32,6 +32,8 @@
 
   ![github stats](https://github-readme-stats.vercel.app/api?username=JihunDev&show_icons=true)  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihunDev&layout=compact)
+  [![Jihun Kim StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5311181)](https://stackoverflow.com/users/5311181/jihun-kim)
+
 
   </div>
 </details>
