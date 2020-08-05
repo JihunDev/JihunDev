@@ -31,7 +31,7 @@
   <div align=center>
 
   ![github stats](https://github-readme-stats.vercel.app/api?username=JihunDev&show_icons=true)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihunDev&layout=compact)
+
   [![Jihun Kim StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5311181)](https://stackoverflow.com/users/5311181/jihun-kim)
 
 
@@ -41,6 +41,9 @@
 <details>
   <summary>My skills include</summary>
   <br>
+  <div align=center>
+    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihunDev&layout=compact)
   
   ### Language
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -83,7 +86,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />
-
+  </div>
 </details>
 
 <details>
