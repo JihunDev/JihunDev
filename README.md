@@ -46,8 +46,11 @@
   <summary>My skills include</summary>
   <br>
   <div align=center>
-    
+  
+  ## Most Used Language
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihunDev&layout=compact)
+  
+  ## My Skills
   
   ### Language
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -84,12 +87,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
 
-  ### Collaboration tools
+  ### Business tools
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />
+  
   </div>
 </details>
 
