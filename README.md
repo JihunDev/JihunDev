@@ -29,9 +29,13 @@
   <br>
   
   <div align=center>
+  
+  ## Git Status
+  
+  ![github status](https://github-readme-stats.vercel.app/api?username=JihunDev&show_icons=true)  
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=JihunDev&show_icons=true)  
-
+  ## StakOverFlow
+  
   [![Jihun Kim StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5311181)](https://stackoverflow.com/users/5311181/jihun-kim)
 
 
