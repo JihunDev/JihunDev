@@ -29,11 +29,7 @@
   <br>
   
   <div align=center>
-  
-  ## StakOverFlow
-  
-  [![Jihun Kim StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5311181)](https://stackoverflow.com/users/5311181/jihun-kim)
-  
+
   ## Codewars
   
   ![Codewars Rank](https://www.codewars.com/users/JihunDev/badges/large)
