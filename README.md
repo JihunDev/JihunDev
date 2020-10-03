@@ -115,7 +115,6 @@
   <br>
  
 <!-- STACKOVERFLOW:START -->
-- [How to calibrate a camera with Ouster OS1-64 LiDAR](https://stackoverflow.com/questions/63685057/how-to-calibrate-a-camera-with-ouster-os1-64-lidar)
 - [Comment by Jihun Kim on Car speed measurement using 3-axis accelerometer](https://stackoverflow.com/questions/59171821/car-speed-measurement-using-3-axis-accelerometer/59843250#59843250)
 - [Answer by Jihun Kim for dspic33ev Doesn't work after changing pin number](https://stackoverflow.com/questions/59421621/dspic33ev-doesnt-work-after-changing-pin-number/59448909#59448909)
 - [dspic33ev Doesn't work after changing pin number](https://stackoverflow.com/questions/59421621/dspic33ev-doesnt-work-after-changing-pin-number)
