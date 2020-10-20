@@ -13,7 +13,7 @@
 
 <img align="right" alt="GIF" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-- 🔭 I’m currently working on researching autonomous driving and working on GNSS RTK and IMU.
+- 🔭 I’m currently working on autonomous driving researching and GNSS RTK and IMU.
 - 🌱 I’m currently learning on Python and Django.
 - 💬 Ask me about C,Cpp and Python
 - 📫 How to reach me: e-Mail
