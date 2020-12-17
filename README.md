@@ -33,6 +33,9 @@
   ## Codewars
   
   ![Codewars Rank](https://www.codewars.com/users/JihunDev/badges/large)
+  
+  ## Github Profile Trophy
+  ![trophy](https://github-profile-trophy.vercel.app/?username=JihunDev&theme=onedark)
 
   </div>
 </details>
