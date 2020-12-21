@@ -29,14 +29,13 @@
   <br>
   
   <div align=center>
-
-  ## Codewars
-  
-  ![Codewars Rank](https://www.codewars.com/users/JihunDev/badges/large)
-  
+ 
   ## Github Profile Trophy
   ![trophy](https://github-profile-trophy.vercel.app/?username=JihunDev&theme=onedark)
 
+  ## Codewars
+  ![Codewars Rank](https://www.codewars.com/users/JihunDev/badges/large)
+  
   </div>
 </details>
 
