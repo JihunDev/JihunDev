@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on autonomous driving researching and GNSS RTK and IMU.
 - 🌱 I’m currently learning on Python and Django.
 - 💬 Ask me about C,Cpp and Python
-- 📫 How to reach me: e-Mail
+- 📫 How to reach me: eMail
 - 😄 Pronouns: Embedded Linux, Autonomus Driving, Firmware
 - 👍 Favorite programming quote
   > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
