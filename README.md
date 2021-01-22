@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi! I'm Jihun.</h3>
-<p align="center">Embedded Linux system development and autonomous driving system development ✨</p>
+<p align="center">iOS development ✨</p>
 
 <img align="right" alt="GIF" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-- 🔭 I’m currently working on autonomous driving researching and GNSS RTK and IMU.
-- 🌱 I’m currently learning on Python and Django.
+- 🔭 I’m currently working on iOS, Sensor processing
+- 🌱 I’m currently learning on Swift
 - 💬 Ask me about C,Cpp and Python
-- 📫 How to reach me: eMail
+- 📫 How to reach me: e-Mail
 - 😄 Pronouns: Embedded Linux, Autonomus Driving, Firmware
 - 👍 Favorite programming quote
   > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
