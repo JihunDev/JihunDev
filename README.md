@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi! I'm Jihun.</h3>
 <p align="center">iOS development ✨</p>
 
-<img align="right" alt="GIF" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-
 - 🔭 I’m currently working on iOS, Sensor processing
 - 🌱 I’m currently learning on Swift
 - 💬 Ask me about C,Cpp and Python
