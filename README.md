@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi! I'm Jihun.</h3>
-<p align="center">iOS development ✨</p>
+<p align="center">Web Backend development ✨</p>
 
-- 🔭 I’m currently working on iOS, Sensor processing
-- 🌱 I’m currently learning on Swift
+- 🔭 I’m currently working on Django
+- 🌱 I’m currently learning on Django
 - 💬 Ask me about C,Cpp and Python
 - 📫 How to reach me: e-Mail
 - 😄 Pronouns: Embedded Linux, Autonomus Driving, Firmware
