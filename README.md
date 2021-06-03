@@ -29,7 +29,10 @@
   <br>
 
   <div align=center>
- 
+  
+  ## GitHub Streak Stats
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JihunDev&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+  
   ## Github Profile Trophy
   ![trophy](https://github-profile-trophy.vercel.app/?username=JihunDev&theme=onedark)
 
