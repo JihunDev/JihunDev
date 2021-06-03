@@ -96,7 +96,7 @@
 </details>
 
 <details>
-  <summary>Latest Blog Posts</summary>
+  <summary>My Blog Activity</summary>
   <br>
 
 <!-- BLOG-POST-LIST:START -->
@@ -109,7 +109,7 @@
 </details>
 
 <details>
-  <summary>Latest StackOverFlow Posts</summary>
+  <summary>My StackOverFlow Activity</summary>
   <br>
  
 <!-- STACKOVERFLOW:START -->
