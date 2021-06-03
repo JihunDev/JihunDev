@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: vergissberlin/codestats-readme@master
         with:
-          CODESTATS_USERNAME: "jihundev"
+          CODESTATS_USERNAME: jihundev
