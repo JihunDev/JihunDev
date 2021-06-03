@@ -22,15 +22,17 @@
   > - Linus Torval
 
 
----
-
 <h2 align="center">My Github Stats</h2>
   <div align=center>
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihunDev&theme=dark&show_icons=true)
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JihunDev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
   </div>
-  
+
+---
+
 <details>
   <summary>Some other facts about me-e-e</summary>
   <br>
