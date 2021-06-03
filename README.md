@@ -96,6 +96,15 @@
 </details>
 
 <details>
+  <summary>My WakaTime</summary>
+  <br>
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+    
+</details>
+
+<details>
   <summary>My Blog Activity</summary>
   <br>
 
