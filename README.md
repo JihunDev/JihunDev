@@ -10,6 +10,8 @@
 <h1 align="center">👋 Hi! I'm Jihun.</h3>
 <p align="center">Developer ✨</p>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/JihunDev/JihunDev/master/assets/Night_Coding.gif" align="right"/>
+
 - 🔭 I’m currently working on Project from CUSMOS
 - 🌱 I’m currently learning on Django
 - 💬 Ask me about C,Cpp and Python
@@ -18,6 +20,7 @@
 - 👍 Favorite programming quote
   > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
   > - Linus Torval
+
 
 ---
 
