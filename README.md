@@ -181,6 +181,15 @@ Python                   3 repos             ██░░░░░░░░░�
 </details>
 
 <details>
+  <summary>Code:Stats</summary>
+  <br>
+  
+<!--START_SECTION:codestats-->
+<!--END_SECTION:codestats-->
+  
+</details>
+
+<details>
   <summary>My Blog Activity</summary>
   <br>
 
