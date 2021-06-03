@@ -7,7 +7,7 @@
   
 </div>
   
-<h1 align="center">Hi! I'm Jihun.<img alt="Hand Wave" src="./assets/Hand_Wave.gif" width='45'/></h3>
+<h1 align="center">Hi! I'm Jihun.<img alt="Hand Wave" src="./assets/Hand_Wave.gif" width='45'/></h1>
 <p align="center">Developer ✨</p>
 
 <img alt="Night Coding" src="./assets/Night_Coding.gif" align="right"/>
@@ -24,15 +24,19 @@
 
 ---
 
+<h2 align="center">My Github Stats</h2>
+  <div align=center>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JihunDev&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+  </div>
+  
 <details>
   <summary>Some other facts about me-e-e</summary>
   <br>
 
   <div align=center>
-  
-  ## GitHub Streak Stats
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JihunDev&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-  
+
   ## Github Profile Trophy
   ![trophy](https://github-profile-trophy.vercel.app/?username=JihunDev&theme=onedark)
 
