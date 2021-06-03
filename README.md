@@ -7,10 +7,10 @@
   
 </div>
   
-<h1 align="center">👋 Hi! I'm Jihun.</h3>
+<h1 align="center">Hi! I'm Jihun.<img alt="Hand Wave" src="./assets/Hand_Wave.gif" width='45'/></h3>
 <p align="center">Developer ✨</p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/JihunDev/JihunDev/master/assets/Night_Coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/Night_Coding.gif" align="right"/>
 
 - 🔭 I’m currently working on Project from CUSMOS
 - 🌱 I’m currently learning on Django
