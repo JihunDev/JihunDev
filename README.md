@@ -40,7 +40,7 @@
   <div align=center>
 
   ## Github Profile Trophy
-  ![trophy](https://github-profile-trophy.vercel.app/?username=JihunDev&theme=onedark)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=JihunDev&theme=onedark&column=8&margin-w=5)
 
   ## Codewars
   ![Codewars Rank](https://www.codewars.com/users/JihunDev/badges/large)
