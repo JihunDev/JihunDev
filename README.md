@@ -21,18 +21,6 @@
   > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
   > - Linus Torval
 
-
-<h2 align="center">My Github Stats</h2>
-  <div align=center>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihunDev&theme=dark&show_icons=true)
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JihunDev&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-  </div>
-
----
-
 <details>
   <summary>Some other facts about me-e-e</summary>
   <br>
@@ -93,6 +81,27 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40" />
   </div>
+</details>
+
+<h2 align="center">My Github Stats</h2>
+  <div align=center>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihunDev&theme=dark&show_icons=true)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JihunDev&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+  </div>
+
+---
+
+
+<details>
+  <summary>GitHub Activity</summary>
+  <br>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 </details>
 
 <details>
