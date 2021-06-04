@@ -11,6 +11,15 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: vergissberlin/codestats-readme@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - run: ls -lisah
+      - run: ls -lisa /home/runner/work/JihunDev/JihunDev
+      - name: Update readme
+        uses: vergissberlin/codestats-readme@master
         with:
           CODESTATS_USERNAME: jihundev
+          SHOW_TITLE: true
+          SHOW_LINK: true
+          DEBUG: true
+          README_FILE: /home/runner/work/JihunDev/JihunDev/README.md
