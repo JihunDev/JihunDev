@@ -1,4 +1,4 @@
-name: Latest stack overflow activity
+name: StackOverflow Activity
 on:
   schedule:
     # Runs every 5 minutes
