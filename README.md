@@ -100,6 +100,11 @@
   <br>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/JihunDev/productive-box/pull/3) in [JihunDev/productive-box](https://github.com/JihunDev/productive-box)
+2. 🎉 Merged PR [#3](https://github.com/JihunDev/waka-box/pull/3) in [JihunDev/waka-box](https://github.com/JihunDev/waka-box)
+3. 🎉 Merged PR [#7](https://github.com/JihunDev/activity-box/pull/7) in [JihunDev/activity-box](https://github.com/JihunDev/activity-box)
+4. 🎉 Merged PR [#6](https://github.com/JihunDev/activity-box/pull/6) in [JihunDev/activity-box](https://github.com/JihunDev/activity-box)
+5. 🎉 Merged PR [#5](https://github.com/JihunDev/activity-box/pull/5) in [JihunDev/activity-box](https://github.com/JihunDev/activity-box)
 <!--END_SECTION:activity-->
 
 </details>
