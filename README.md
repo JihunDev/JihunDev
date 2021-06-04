@@ -94,6 +94,15 @@
 
 ---
 
+<div align=center>
+
+  [![Github Activity](https://github.com/JihunDev/JihunDev/actions/workflows/github-activities.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/github-activities.yml)
+  [![Blog Activity](https://github.com/JihunDev/JihunDev/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/blog-post-workflow.yml)
+  [![StackOverflow Activity](https://github.com/JihunDev/JihunDev/actions/workflows/stack-overflow-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/stack-overflow-workflow.yml)
+  [![WakaTime](https://github.com/JihunDev/JihunDev/actions/workflows/waka-readme-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/waka-readme-workflow.yml)
+  [![CodeStats](https://github.com/JihunDev/JihunDev/actions/workflows/code-stats-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/code-stats-workflow.yml)
+
+</div>
 
 <details>
   <summary>GitHub Activity</summary>
