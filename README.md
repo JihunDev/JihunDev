@@ -97,11 +97,11 @@
   <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/JihunDev/JihunDev.github.io/pull/14) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-2. 💪 Opened PR [#14](https://github.com/JihunDev/JihunDev.github.io/pull/14) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-3. 🎉 Merged PR [#13](https://github.com/JihunDev/JihunDev.github.io/pull/13) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-4. 💪 Opened PR [#13](https://github.com/JihunDev/JihunDev.github.io/pull/13) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-5. 🎉 Merged PR [#12](https://github.com/JihunDev/JihunDev.github.io/pull/12) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+1. 🗣 Commented on [#15](https://github.com/JihunDev/JihunDev.github.io/issues/15) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+2. 🎉 Merged PR [#14](https://github.com/JihunDev/JihunDev.github.io/pull/14) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+3. 💪 Opened PR [#14](https://github.com/JihunDev/JihunDev.github.io/pull/14) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+4. 🎉 Merged PR [#13](https://github.com/JihunDev/JihunDev.github.io/pull/13) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+5. 💪 Opened PR [#13](https://github.com/JihunDev/JihunDev.github.io/pull/13) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
 <!--END_SECTION:activity-->
 
 </details>
