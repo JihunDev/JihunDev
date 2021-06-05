@@ -106,11 +106,11 @@
   <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/JihunDev/productive-box/pull/3) in [JihunDev/productive-box](https://github.com/JihunDev/productive-box)
-2. 🎉 Merged PR [#3](https://github.com/JihunDev/waka-box/pull/3) in [JihunDev/waka-box](https://github.com/JihunDev/waka-box)
-3. 🎉 Merged PR [#7](https://github.com/JihunDev/activity-box/pull/7) in [JihunDev/activity-box](https://github.com/JihunDev/activity-box)
-4. 🎉 Merged PR [#6](https://github.com/JihunDev/activity-box/pull/6) in [JihunDev/activity-box](https://github.com/JihunDev/activity-box)
-5. 🎉 Merged PR [#5](https://github.com/JihunDev/activity-box/pull/5) in [JihunDev/activity-box](https://github.com/JihunDev/activity-box)
+1. 🎉 Merged PR [#14](https://github.com/JihunDev/JihunDev.github.io/pull/14) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+2. 💪 Opened PR [#14](https://github.com/JihunDev/JihunDev.github.io/pull/14) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+3. 🎉 Merged PR [#13](https://github.com/JihunDev/JihunDev.github.io/pull/13) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+4. 💪 Opened PR [#13](https://github.com/JihunDev/JihunDev.github.io/pull/13) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+5. 🎉 Merged PR [#12](https://github.com/JihunDev/JihunDev.github.io/pull/12) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
 <!--END_SECTION:activity-->
 
 </details>
