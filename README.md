@@ -15,14 +15,6 @@
 <details>
   <summary>Some other facts about me-e-e</summary>
   <br>
-  <div align="center">
-  
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jihundev.github.io/)](https://jihundev.github.io/)
-  [![TIL Blog Badge](http://img.shields.io/badge/-TIL%20blog-00C7B7?style=flat-square&logo=netlify&logoColor=white&link=https://jihun2til.netlify.app/#/)](https://jihun2til.netlify.app/#/)
-  [![Stack Over Flow Badge](http://img.shields.io/badge/-StackOverFlow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)](https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihun-kim/)](https://www.linkedin.com/in/jihun-kim/) 
-  
-  </div>
   <div align=center>
 
   ## Github Profile Trophy
@@ -82,6 +74,19 @@
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/atlassian.svg" alt="atlassian" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40" />
+  </div>
+</details>
+
+<details>
+  <summary>📬 Get in touch</summary>
+  <br>
+    <div align="center">
+  
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jihundev.github.io/)](https://jihundev.github.io/)
+  [![TIL Blog Badge](http://img.shields.io/badge/-TIL%20blog-00C7B7?style=flat-square&logo=netlify&logoColor=white&link=https://jihun2til.netlify.app/#/)](https://jihun2til.netlify.app/#/)
+  [![Stack Over Flow Badge](http://img.shields.io/badge/-StackOverFlow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)](https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihun-kim/)](https://www.linkedin.com/in/jihun-kim/) 
+  
   </div>
 </details>
 
