@@ -1,11 +1,12 @@
-<div align="center">
-  
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jihundev.github.io/)](https://jihundev.github.io/)
-  [![TIL Blog Badge](http://img.shields.io/badge/-TIL%20blog-00C7B7?style=flat-square&logo=netlify&logoColor=white&link=https://jihun2til.netlify.app/#/)](https://jihun2til.netlify.app/#/)
-  [![Stack Over Flow Badge](http://img.shields.io/badge/-StackOverFlow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)](https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihun-kim/)](https://www.linkedin.com/in/jihun-kim/) 
-  
+<div align=center>
+
+  [![Github Activity](https://github.com/JihunDev/JihunDev/actions/workflows/github-activities.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/github-activities.yml) 
+  [![Blog Activity](https://github.com/JihunDev/JihunDev/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/blog-post-workflow.yml)
+  [![StackOverflow Activity](https://github.com/JihunDev/JihunDev/actions/workflows/stack-overflow-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/stack-overflow-workflow.yml)
+  [![WakaTime](https://github.com/JihunDev/JihunDev/actions/workflows/waka-readme-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/waka-readme-workflow.yml)
+
 </div>
+
   
 <h1 align="center">Hi! I'm Jihun.<img alt="Hand Wave" src="./assets/Hand_Wave.gif" width='45'/></h1>
 <p align="center">Developer ✨</p>
@@ -15,7 +16,6 @@
 - 🔭 I’m currently working on Project from CUSMOS
 - 🌱 I’m currently learning on Django
 - 💬 Ask me about C,Cpp and Python
-- 📫 How to reach me: e-Mail
 - 😄 Pronouns: Embedded Linux, Autonomus Driving, Firmware
 - 👍 Favorite programming quote
   > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
@@ -24,7 +24,14 @@
 <details>
   <summary>Some other facts about me-e-e</summary>
   <br>
-
+  <div align="center">
+  
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jihundev.github.io/)](https://jihundev.github.io/)
+  [![TIL Blog Badge](http://img.shields.io/badge/-TIL%20blog-00C7B7?style=flat-square&logo=netlify&logoColor=white&link=https://jihun2til.netlify.app/#/)](https://jihun2til.netlify.app/#/)
+  [![Stack Over Flow Badge](http://img.shields.io/badge/-StackOverFlow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)](https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihun-kim/)](https://www.linkedin.com/in/jihun-kim/) 
+  
+  </div>
   <div align=center>
 
   ## Github Profile Trophy
@@ -94,16 +101,6 @@
 
 ---
 
-<div align=center>
-
-  [![Github Activity](https://github.com/JihunDev/JihunDev/actions/workflows/github-activities.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/github-activities.yml)
-  [![Blog Activity](https://github.com/JihunDev/JihunDev/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/blog-post-workflow.yml)
-  [![StackOverflow Activity](https://github.com/JihunDev/JihunDev/actions/workflows/stack-overflow-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/stack-overflow-workflow.yml)
-  [![WakaTime](https://github.com/JihunDev/JihunDev/actions/workflows/waka-readme-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/waka-readme-workflow.yml)
-  [![CodeStats](https://github.com/JihunDev/JihunDev/actions/workflows/code-stats-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/code-stats-workflow.yml)
-
-</div>
-
 <details>
   <summary>GitHub Activity</summary>
   <br>
@@ -117,9 +114,35 @@
 <!--END_SECTION:activity-->
 
 </details>
+  
+<details>
+  <summary>Blog Activity</summary>
+  <br>
+
+<!-- BLOG-POST-LIST:START -->
+- [RaspberryPi Bluetooth Pairing](https://jihundev.github.io/HW-RaspberryPi3-Bluetooth_Pairing/)
+- [HM-10 Bluetooth 모듈로 iBeacon 만들기](https://jihundev.github.io/HW-iBeacon_Command/)
+- [ubuntu NodeJs 설치](https://jihundev.github.io/Nodejs_install_nodejs_for_ubuntu/)
+- [RaspberryPi 3B+에 TensorFlow 설치](https://jihundev.github.io/HW-RaspberryPi3_install_Tensorflow/)
+<!-- BLOG-POST-LIST:END -->
+
+</details>
 
 <details>
-  <summary>My WakaTime</summary>
+  <summary>StackOverFlow Activity</summary>
+  <br>
+ 
+<!-- STACKOVERFLOW:START -->
+- [Comment by Jihun Kim on Car speed measurement using 3-axis accelerometer](https://stackoverflow.com/questions/59171821/car-speed-measurement-using-3-axis-accelerometer/59843250#59843250)
+- [Answer by Jihun Kim for dspic33ev Doesn't work after changing pin number](https://stackoverflow.com/questions/59421621/dspic33ev-doesnt-work-after-changing-pin-number/59448909#59448909)
+- [dspic33ev Doesn't work after changing pin number](https://stackoverflow.com/questions/59421621/dspic33ev-doesnt-work-after-changing-pin-number)
+- [Car speed measurement using 3-axis accelerometer](https://stackoverflow.com/questions/59171821/car-speed-measurement-using-3-axis-accelerometer)
+<!-- STACKOVERFLOW:END -->
+    
+</details>
+
+<details>
+  <summary>WakaTime</summary>
   <br>
  
 <!--START_SECTION:waka-->
@@ -196,41 +219,6 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-    
-</details>
-
-<details>
-  <summary>Code:Stats</summary>
-  <br>
-  
-<!--START_SECTION:codestats-->
-<!--END_SECTION:codestats-->
-  
-</details>
-
-<details>
-  <summary>My Blog Activity</summary>
-  <br>
-
-<!-- BLOG-POST-LIST:START -->
-- [RaspberryPi Bluetooth Pairing](https://jihundev.github.io/HW-RaspberryPi3-Bluetooth_Pairing/)
-- [HM-10 Bluetooth 모듈로 iBeacon 만들기](https://jihundev.github.io/HW-iBeacon_Command/)
-- [ubuntu NodeJs 설치](https://jihundev.github.io/Nodejs_install_nodejs_for_ubuntu/)
-- [RaspberryPi 3B+에 TensorFlow 설치](https://jihundev.github.io/HW-RaspberryPi3_install_Tensorflow/)
-<!-- BLOG-POST-LIST:END -->
-
-</details>
-
-<details>
-  <summary>My StackOverFlow Activity</summary>
-  <br>
- 
-<!-- STACKOVERFLOW:START -->
-- [Comment by Jihun Kim on Car speed measurement using 3-axis accelerometer](https://stackoverflow.com/questions/59171821/car-speed-measurement-using-3-axis-accelerometer/59843250#59843250)
-- [Answer by Jihun Kim for dspic33ev Doesn't work after changing pin number](https://stackoverflow.com/questions/59421621/dspic33ev-doesnt-work-after-changing-pin-number/59448909#59448909)
-- [dspic33ev Doesn't work after changing pin number](https://stackoverflow.com/questions/59421621/dspic33ev-doesnt-work-after-changing-pin-number)
-- [Car speed measurement using 3-axis accelerometer](https://stackoverflow.com/questions/59171821/car-speed-measurement-using-3-axis-accelerometer)
-<!-- STACKOVERFLOW:END -->
     
 </details>
 
