@@ -1,13 +1,4 @@
-<div align=center>
 
-  [![Github Activity](https://github.com/JihunDev/JihunDev/actions/workflows/github-activities.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/github-activities.yml) 
-  [![Blog Activity](https://github.com/JihunDev/JihunDev/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/blog-post-workflow.yml)
-  [![StackOverflow Activity](https://github.com/JihunDev/JihunDev/actions/workflows/stack-overflow-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/stack-overflow-workflow.yml)
-  [![WakaTime](https://github.com/JihunDev/JihunDev/actions/workflows/waka-readme-workflow.yml/badge.svg)](https://github.com/JihunDev/JihunDev/actions/workflows/waka-readme-workflow.yml)
-
-</div>
-
-  
 <h1 align="center">Hi! I'm Jihun.<img alt="Hand Wave" src="./assets/Hand_Wave.gif" width='45'/></h1>
 <p align="center">Developer ✨</p>
 
