@@ -18,7 +18,7 @@
   <div align=center>
 
   ## Github Profile Trophy
-  ![trophy](https://github-profile-trophy.vercel.app/?username=JihunDev&theme=onedark&column=8&margin-w=5)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=JihunDev&theme=onedark&row=2&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
   
   ## StackOverFlow
   [![Jihun StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5311181&theme=dark)](https://stackoverflow.com/users/5311181/jihun-kim)
