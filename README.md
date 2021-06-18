@@ -64,7 +64,8 @@
   ### Cloud Servers
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloudservices" width="40" height="40" />
-    
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws.svg" alt="aws" width="40" height="40" />
+
   ### OS
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
