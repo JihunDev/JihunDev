@@ -126,10 +126,10 @@
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Accelerometer Sensor](https://jihundev.github.io/posts/ICP_Accelerometer_Sensor/)
 - [RaspberryPi Bluetooth Pairing](https://jihundev.github.io/posts/HW-RaspberryPi3-Bluetooth_Pairing/)
 - [ubuntu에 Node.js 설치](https://jihundev.github.io/posts/Nodejs_install_nodejs_for_ubuntu/)
 - [HM-10 Bluetooth 모듈로 iBeacon 만들기](https://jihundev.github.io/posts/HW-iBeacon_Command/)
-- [RaspberryPi 3B+에 TensorFlow 설치](https://jihundev.github.io/posts/HW-RaspberryPi3_install_Tensorflow/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
