@@ -141,10 +141,10 @@
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Library & API & Framework & Engine & SDK](https://jihundev.github.io/posts/Library_Api_Framework_Engine_Sdk/)
 - [UniCast & BroadCast & MultiCast 차이점](https://jihundev.github.io/posts/Difference-UniCast_BroadCast_MultiCast_AnyCast/)
 - [DC/DC Converter](https://jihundev.github.io/posts/DCDC-Converter/)
 - [Accelerometer Sensor](https://jihundev.github.io/posts/ICP_Accelerometer_Sensor/)
-- [RaspberryPi Bluetooth Pairing](https://jihundev.github.io/posts/HW-RaspberryPi3-Bluetooth_Pairing/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
