@@ -141,10 +141,10 @@
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [C -Const](https://jihundev.github.io/posts/C-Const/)
 - [DAQ(Data Acquisition)](https://jihundev.github.io/posts/DAQ_DataAcquisition/)
 - [sudo -S -kS 옵션](https://jihundev.github.io/posts/Option-sudo/)
 - [Library & API & Framework & Engine & SDK](https://jihundev.github.io/posts/Library_Api_Framework_Engine_Sdk/)
-- [UniCast & BroadCast & MultiCast 차이점](https://jihundev.github.io/posts/Difference-UniCast_BroadCast_MultiCast_AnyCast/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
