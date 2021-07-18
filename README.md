@@ -141,10 +141,10 @@
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Binary, Grayscale, Color](https://jihundev.github.io/posts/Reference-Binary_Grayscale_Color/)
 - [Vcc, Vee, Vdd, Vss](https://jihundev.github.io/posts/Difference-Vcc_Vee_Vdd_Vss/)
 - [C -Const](https://jihundev.github.io/posts/C-Const/)
 - [DAQ(Data Acquisition)](https://jihundev.github.io/posts/DAQ_DataAcquisition/)
-- [sudo -S -kS 옵션](https://jihundev.github.io/posts/Option-sudo/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
