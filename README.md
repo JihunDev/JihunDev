@@ -141,10 +141,10 @@
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Vim 명령어](https://jihundev.github.io/posts/Command-Vim/)
 - [Binary, Grayscale, Color](https://jihundev.github.io/posts/Reference-Binary_Grayscale_Color/)
 - [Vcc, Vee, Vdd, Vss](https://jihundev.github.io/posts/Difference-Vcc_Vee_Vdd_Vss/)
 - [C -Const](https://jihundev.github.io/posts/C-Const/)
-- [DAQ(Data Acquisition)](https://jihundev.github.io/posts/DAQ_DataAcquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
