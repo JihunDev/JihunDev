@@ -1,8 +1,4 @@
-
-<h1 align="center">Hi! I'm Jihun.<img alt="Hand Wave" src="./assets/Hand_Wave.gif" width='45'/></h1>
-<p align="center">Developer ✨</p>
-
-<img alt="Night Coding" src="./assets/Night_Coding.gif" align="right"/>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I'm%20Jihun.&fontAlign=70&fontAlignY=40&color=gradient)
 
 - 🔭 I’m currently working on Project from CUSMOS
 - 🌱 I’m currently learning on Django
