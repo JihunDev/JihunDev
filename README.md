@@ -141,10 +141,10 @@
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [자주 쓰는 Git Command](https://jihundev.github.io/posts/Frequently_used_git_command/)
 - [Vim 명령어](https://jihundev.github.io/posts/Command-Vim/)
 - [Binary, Grayscale, Color](https://jihundev.github.io/posts/Reference-Binary_Grayscale_Color/)
 - [Vcc, Vee, Vdd, Vss](https://jihundev.github.io/posts/Difference-Vcc_Vee_Vdd_Vss/)
-- [C -Const](https://jihundev.github.io/posts/C-Const/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
