@@ -2,17 +2,15 @@ name: Github Activity
 
 on:
   schedule:
-    # Runs every 30 minutes
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent github activity
+    name: Update Profile README
 
     steps:
-      - name: Recent GitHub Activity - Profile Readme
       - uses: actions/checkout@v2.3.4
       - uses: Readme-Workflows/recent-activity@v2.3.1
         
