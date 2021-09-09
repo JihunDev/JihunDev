@@ -12,8 +12,9 @@ jobs:
     name: Update this repo's README with recent github activity
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Recent GitHub Activity - Profile Readme
+      - uses: Readme-Workflows/recent-activity@v2.3.1
+
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with :
