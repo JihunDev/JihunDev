@@ -126,14 +126,6 @@
   <summary>GitHub Activity</summary>
   <br>
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/codersrank-org/work-experience-widget/issues/4) in [codersrank-org/work-experience-widget](https://github.com/codersrank-org/work-experience-widget)
-2. 🗣 Commented on [#15](https://github.com/JihunDev/JihunDev.github.io/issues/15) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-3. 🎉 Merged PR [#14](https://github.com/JihunDev/JihunDev.github.io/pull/14) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-4. 💪 Opened PR [#14](https://github.com/JihunDev/JihunDev.github.io/pull/14) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-5. 🎉 Merged PR [#13](https://github.com/JihunDev/JihunDev.github.io/pull/13) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-<!--END_SECTION:activity-->
-  
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
 2. 
