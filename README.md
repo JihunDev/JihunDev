@@ -133,7 +133,11 @@
 4. 💪 Opened PR [#14](https://github.com/JihunDev/JihunDev.github.io/pull/14) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
 5. 🎉 Merged PR [#13](https://github.com/JihunDev/JihunDev.github.io/pull/13) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
 <!--END_SECTION:activity-->
+  
+<!--RECENT_ACTIVITY:start-->
 
+<!--RECENT_ACTIVITY:last_update-->
+  
 </details>
   
 <details>
