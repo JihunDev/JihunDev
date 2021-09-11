@@ -127,8 +127,8 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
-2. 
+1. ⭐ Starred [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
+2. ⭐ Starred [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
 3. 
 4. 
 5. 
@@ -140,7 +140,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 11th, 2021, 4:40:09 AM
+Last Updated: Saturday, September 11th, 2021, 5:05:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
