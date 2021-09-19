@@ -100,18 +100,6 @@
   </div>
 </details>
 
-<details>
-  <summary>📬 Get in touch</summary>
-  <br>
-    <div align="center">
-  
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jihundev.github.io/)](https://jihundev.github.io/)
-  [![Stack Over Flow Badge](http://img.shields.io/badge/-StackOverFlow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)](https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihun-kim/)](https://www.linkedin.com/in/jihun-kim/) 
-  
-  </div>
-</details>
-
 <h2 align="center">My Github Stats</h2>
   <div align=center>
 
@@ -252,6 +240,14 @@ JavaScript               5 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
     
 </details>
+
+<div align="center">
+
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jihundev.github.io/)](https://jihundev.github.io/)
+  [![Stack Over Flow Badge](http://img.shields.io/badge/-StackOverFlow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)](https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihun-kim/)](https://www.linkedin.com/in/jihun-kim/) 
+
+</div>
 
 <div align="center">  
   
