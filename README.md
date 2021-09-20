@@ -139,10 +139,10 @@ Last Updated: Monday, September 20th, 2021, 3:35:00 AM
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Nginx 413 Request Entity Too Large Err](https://jihundev.github.io/posts/AWS-Nginx_413_Request_Entity_Too_Large_Err/)
 - [ROS Mater, Slave Setting](https://jihundev.github.io/posts/ROS_mater_lsave_setting/)
 - [자주 쓰는 Git Command](https://jihundev.github.io/posts/Frequently_used_git_command/)
 - [Vim 명령어](https://jihundev.github.io/posts/Command-Vim/)
-- [Binary, Grayscale, Color](https://jihundev.github.io/posts/Reference-Binary_Grayscale_Color/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
