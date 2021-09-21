@@ -1,6 +1,6 @@
 settings:
   username: "JihunDev"
-  commit_msg: "⚡ Update README with the recent activity"
+  commit_msg: ""
   max_lines: 10
   readme_file: "./README.md"
   disabled_events:
