@@ -139,10 +139,10 @@ Last Updated: Saturday, September 25th, 2021, 12:41:53 PM
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mac Python Version 변경](https://jihundev.github.io/posts/python_Mac_change_version/)
 - [AWS Nginx 413 Request Entity Too Large Err](https://jihundev.github.io/posts/AWS-Nginx_413_Request_Entity_Too_Large_Err/)
 - [ROS Mater, Slave Setting](https://jihundev.github.io/posts/ROS_mater_lsave_setting/)
 - [자주 쓰는 Git Command](https://jihundev.github.io/posts/Frequently_used_git_command/)
-- [Vim 명령어](https://jihundev.github.io/posts/Command-Vim/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
