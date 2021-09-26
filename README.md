@@ -139,10 +139,10 @@ Last Updated: Sunday, September 26th, 2021, 10:35:14 AM
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Kincet Sensor DK Ubuntu 설치 방법](https://jihundev.github.io/posts/Install_Azure_Kincet_DK_on_Linux/)
 - [Mac Python Version 변경](https://jihundev.github.io/posts/python_Mac_change_version/)
 - [AWS Nginx 413 Request Entity Too Large Err](https://jihundev.github.io/posts/AWS-Nginx_413_Request_Entity_Too_Large_Err/)
 - [ROS Mater, Slave Setting](https://jihundev.github.io/posts/ROS_mater_lsave_setting/)
-- [자주 쓰는 Git Command](https://jihundev.github.io/posts/Frequently_used_git_command/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
