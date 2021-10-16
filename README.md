@@ -241,6 +241,11 @@ JavaScript               6 repos             ███░░░░░░░░�
 </div>
 
 <div align="center">  
+
+  [![wakatime](https://wakatime.com/badge/user/5dbb20ab-159d-49e1-9f66-2dc135f07d80.svg)](https://wakatime.com/@5dbb20ab-159d-49e1-9f66-2dc135f07d80)
+</div>
+
+<div align="center">  
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihunDev)](https://hits.seeyoufarm.com)
 
