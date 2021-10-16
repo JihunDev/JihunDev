@@ -82,6 +82,9 @@
   </div>
 </details>
 
+<details>
+  <summary>GitHub Stats</summary>
+  <br>
 <h2 align="center">My Github Stats</h2>
   <div align=center>
 
@@ -90,8 +93,7 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JihunDev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
   </div>
-
----
+</details>
 
 <details>
   <summary>GitHub Activity</summary>
@@ -227,6 +229,8 @@ JavaScript               6 repos             ███░░░░░░░░�
 <!--END_SECTION:waka-->
     
 </details>
+
+---
 
 <div align="center">
 
