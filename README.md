@@ -116,10 +116,10 @@ Last Updated: Thursday, October 28th, 2021, 12:42:28 PM
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Node nohup Command](https://jihundev.github.io/posts/Node_nohup_command/)
 - [Django install Debugging Tools](https://jihundev.github.io/posts/Django_install_debugging_tools/)
 - [Django Invalid password format or unknown hashing algorithm](https://jihundev.github.io/posts/Django_Invalid_password_format_or_unknown_hashing_algorithm/)
 - [Django SystemCheckError System check identified some issues](https://jihundev.github.io/posts/Django-SystemCheckError_System_check_identified_some_issues/)
-- [Azure Kincet Sensor DK Ubuntu 설치 방법](https://jihundev.github.io/posts/Install_Azure_Kincet_DK_on_Linux/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
