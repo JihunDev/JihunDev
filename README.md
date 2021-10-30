@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning on Django
 - 💬 Ask me about C,Cpp and Python
 - 😄 Pronouns: Embedded Linux, Autonomus Driving, Firmware
+- 📝 I regularly write articles on [jihundev.github.io/](jihundev.github.io/)
+- 📫 How to reach me **jihun.dev@gmail.com**
 - 👍 Favorite programming quote
   > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
   > - Linus Torval
@@ -106,7 +108,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 30th, 2021, 8:36:26 AM
+Last Updated: Saturday, October 30th, 2021, 8:05:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
@@ -140,7 +142,10 @@ Last Updated: Saturday, October 30th, 2021, 8:36:26 AM
 <details>
   <summary>WakaTime</summary>
   <br>
- 
+<div align="center">  
+
+  [![wakatime](https://wakatime.com/badge/user/5dbb20ab-159d-49e1-9f66-2dc135f07d80.svg)](https://wakatime.com/@5dbb20ab-159d-49e1-9f66-2dc135f07d80)
+</div>
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
@@ -224,21 +229,18 @@ JavaScript               6 repos             ███░░░░░░░░�
 
 ---
 
-<div align="center">
-
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jihundev.github.io/)](https://jihundev.github.io/)
-  [![Stack Over Flow Badge](http://img.shields.io/badge/-StackOverFlow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)](https://stackoverflow.com/users/5311181/jihun-kim?tab=profile)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihun-kim/)](https://www.linkedin.com/in/jihun-kim/) 
-
-</div>
-
-<div align="center">  
-
-  [![wakatime](https://wakatime.com/badge/user/5dbb20ab-159d-49e1-9f66-2dc135f07d80.svg)](https://wakatime.com/@5dbb20ab-159d-49e1-9f66-2dc135f07d80)
-</div>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/jihun-kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihun-kim" height="30" width="40" /></a>
+  <a href="https://twitter.com/jihundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jihundev" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/5311181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5311181" height="30" width="40" /></a>  
+  <a href="https://codepen.io/jihundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jihundev" height="30" width="40" /></a>
+  <a href="https://kaggle.com/jihundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jihundev" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/jihundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jihundev" height="30" width="40" /></a>
+  <a href="https://jihundev.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jihundev.github.io/feed.xml" height="30" width="40" /></a>
+</p>
 
 <div align="center">  
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihunDev)](https://hits.seeyoufarm.com)
-
 </div>
