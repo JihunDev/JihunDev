@@ -118,10 +118,10 @@ Last Updated: Sunday, November 7th, 2021, 1:47:49 AM
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Inbound, Outbound란](https://jihundev.github.io/posts/server_inbound_outbound/)
 - [GET, POST 방식](https://jihundev.github.io/posts/Web_get_post/)
 - [Node nohup Command](https://jihundev.github.io/posts/Node_nohup_command/)
 - [Django install Debugging Tools](https://jihundev.github.io/posts/Django_install_debugging_tools/)
-- [Django Invalid password format or unknown hashing algorithm](https://jihundev.github.io/posts/Django_Invalid_password_format_or_unknown_hashing_algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
