@@ -217,6 +217,7 @@ JavaScript               6 repos             ███░░░░░░░░�
   <a href="https://codepen.io/jihundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jihundev" height="30" width="40" /></a>
   <a href="https://kaggle.com/jihundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jihundev" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/jihundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jihundev" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/jihundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jihundev" height="30" width="40" /></a>
   <a href="https://jihundev.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jihundev.github.io/feed.xml" height="30" width="40" /></a>
 </p>
 
