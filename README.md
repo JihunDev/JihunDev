@@ -80,11 +80,6 @@
 3. 📔 Created new repository [JihunDev/Learn-C-Programming](https://github.com/JihunDev/Learn-C-Programming)
 4. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 5. ⭐ Starred [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
-6. 
-7. 
-8. 
-9. 
-10. 
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
