@@ -10,27 +10,6 @@
   > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
   > - Linus Torval
 
-<details>
-  <summary>Some other facts about me-e-e</summary>
-  <br>
-  <div align=center>
-
-  ## Github Profile Trophy
-  [![trophy](https://github-profile-trophy.vercel.app/?username=JihunDev&theme=onedark&row=2&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  ## StackOverFlow
-  [![Jihun StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5311181&theme=dark)](https://stackoverflow.com/users/5311181/jihun-kim)
-
-  ## Codewars
-  ![Codewars Rank](https://www.codewars.com/users/JihunDev/badges/large)
-  
-  ## Codersrank.io
-  <a href="https://profile.codersrank.io/user/jihundev">
-    <img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jihundev&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" />
-  </a>
-
-  </div>
-</details>
 
 <details>
   <summary>My skills include</summary>
@@ -60,6 +39,13 @@
 <details>
   <summary>GitHub Stats</summary>
   <br>
+  
+  
+<h2 align="center">Github Profile Trophy</h2>
+  <div align=center>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=JihunDev&theme=onedark&row=2&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+  </div>  
 <h2 align="center">My Github Stats</h2>
   <div align=center>
 
@@ -217,7 +203,18 @@ JavaScript               6 repos             ███░░░░░░░░�
   <a href="https://jihundev.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jihundev.github.io/feed.xml" height="30" width="40" /></a>
 </p>
 
-<div align="center">  
+<br>
+
+<h3 align="center">Support:</h3>
+<p align="center">
+	<a href="https://www.buymeacoffee.com/4xg8wTa"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="4xg8wTa" /></a>
+	<a href="https://ko-fi.com/jihun"><img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jihun" /></a>
+</p>
+
+<br>
+
+
+<div align="center">
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihunDev)](https://hits.seeyoufarm.com)
 </div>
