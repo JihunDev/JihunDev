@@ -79,10 +79,10 @@ Last Updated: Saturday, November 27th, 2021, 2:07:04 AM
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [구글 번역시 특정 부분 번역 제외 하기](https://jihundev.github.io/posts/block_google_translate/)
 - [Inbound, Outbound란](https://jihundev.github.io/posts/server_inbound_outbound/)
 - [GET, POST 방식](https://jihundev.github.io/posts/Web_get_post/)
 - [Node nohup Command](https://jihundev.github.io/posts/Node_nohup_command/)
-- [Django install Debugging Tools](https://jihundev.github.io/posts/Django_install_debugging_tools/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
