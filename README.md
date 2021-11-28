@@ -79,10 +79,10 @@ Last Updated: Sunday, November 28th, 2021, 2:05:50 AM
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgresql Error pg_config executable not found.](https://jihundev.github.io/posts/Postgresql_pg_config_executable_not_found/)
 - [구글 번역시 특정 부분 번역 제외 하기](https://jihundev.github.io/posts/block_google_translate/)
 - [Inbound, Outbound란](https://jihundev.github.io/posts/server_inbound_outbound/)
 - [GET, POST 방식](https://jihundev.github.io/posts/Web_get_post/)
-- [Node nohup Command](https://jihundev.github.io/posts/Node_nohup_command/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
