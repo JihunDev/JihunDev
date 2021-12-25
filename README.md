@@ -61,15 +61,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC)
-2. ⭐ Starred [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
-3. 📔 Created new repository [JihunDev/Learn-C-Programming](https://github.com/JihunDev/Learn-C-Programming)
-4. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-5. ⭐ Starred [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
+1. ⭐ Starred [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+2. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+3. ⭐ Starred [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC)
+4. ⭐ Starred [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
+5. 📔 Created new repository [JihunDev/Learn-C-Programming](https://github.com/JihunDev/Learn-C-Programming)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 24th, 2021, 2:13:57 AM
+Last Updated: Saturday, December 25th, 2021, 2:14:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
