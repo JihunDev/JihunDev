@@ -207,9 +207,10 @@ Python                   7 repos             ██░░░░░░░░░�
 <h3 align="center">Support:</h3>
 <p align="center">
 	<a href="https://www.buymeacoffee.com/4xg8wTa"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="4xg8wTa" /></a>
+</p>
+<p align="center">
 	<a href="https://ko-fi.com/jihun"><img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jihun" /></a>
 </p>
-
 <br>
 
 
