@@ -1,5 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I'm%20Jihun.&fontAlign=70&fontAlignY=40&color=gradient)
 
+<h3 align="center">A passionate Embedded developer from Korea</h3>
+
 - 🔭 I’m currently working on Project from CUSMOS
 - 🌱 I’m currently learning on Django
 - 💬 Ask me about C,Cpp and Python
