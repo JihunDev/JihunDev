@@ -63,15 +63,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-2. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-3. ⭐ Starred [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC)
-4. ⭐ Starred [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
-5. 📔 Created new repository [JihunDev/Learn-C-Programming](https://github.com/JihunDev/Learn-C-Programming)
+1. ⭐ Starred [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+2. ⭐ Starred [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+3. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+4. ⭐ Starred [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC)
+5. ⭐ Starred [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 19th, 2022, 2:06:08 AM
+Last Updated: Thursday, January 20th, 2022, 2:24:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
