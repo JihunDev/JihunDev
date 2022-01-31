@@ -63,15 +63,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
-2. ⭐ Starred [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
-3. ⭐ Starred [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-4. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-5. ⭐ Starred [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC)
+1. 📔 Created new repository [JihunDev/django-rest-framework_tutorial](https://github.com/JihunDev/django-rest-framework_tutorial)
+2. ⭐ Starred [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+3. ⭐ Starred [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+4. ⭐ Starred [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+5. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 30th, 2022, 2:06:51 AM
+Last Updated: Monday, January 31st, 2022, 2:05:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
