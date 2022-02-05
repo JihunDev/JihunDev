@@ -59,6 +59,16 @@
 </details>
 
 <details>
+  <summary>solved.ac</summary>
+  <br>
+  <div align=center>
+	  
+  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=commit)](https://solved.ac/commit)
+	  
+  </div>
+</details>
+
+<details>
   <summary>GitHub Activity</summary>
   <br>
 
