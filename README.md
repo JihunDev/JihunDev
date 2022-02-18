@@ -59,7 +59,7 @@
 </details>
 
 <details>
-  <summary>solved.ac</summary>
+  <summary>Code kata</summary>
   <br>
   <div align=center>
 	  
