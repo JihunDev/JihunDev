@@ -66,6 +66,13 @@
   [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=commit)](https://solved.ac/commit)
 	  
   </div>
+
+  <div align=center>
+  
+  ![Codewars Rank](https://www.codewars.com/users/JihunDev/badges/large)
+
+  </div>
+
 </details>
 
 <details>
