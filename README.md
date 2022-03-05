@@ -62,17 +62,13 @@
   <summary>Code kata</summary>
   <br>
   <div align=center>
-	 
-  ## Baekjoon
-  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=commit)](https://solved.ac/commit)
 	  
-  </div>
-
-  <div align=center>
-  
   ## Codewar
   ![Codewars Rank](https://www.codewars.com/users/JihunDev/badges/large)
 
+  ## Baekjoon
+  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=commit)](https://solved.ac/commit)
+	  
   </div>
 
 </details>
