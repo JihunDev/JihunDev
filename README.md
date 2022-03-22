@@ -78,15 +78,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos)
-2. ⭐ Starred [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac)
-3. 📔 Created new repository [JihunDev/django-rest-framework_tutorial](https://github.com/JihunDev/django-rest-framework_tutorial)
-4. ⭐ Starred [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
-5. ⭐ Starred [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+1. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+2. ⭐ Starred [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos)
+3. ⭐ Starred [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac)
+4. 📔 Created new repository [JihunDev/django-rest-framework_tutorial](https://github.com/JihunDev/django-rest-framework_tutorial)
+5. ⭐ Starred [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 21st, 2022, 2:02:55 AM
+Last Updated: Tuesday, March 22nd, 2022, 2:02:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
