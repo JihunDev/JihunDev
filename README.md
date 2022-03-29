@@ -78,15 +78,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-2. ⭐ Starred [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos)
-3. ⭐ Starred [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac)
-4. 📔 Created new repository [JihunDev/django-rest-framework_tutorial](https://github.com/JihunDev/django-rest-framework_tutorial)
-5. ⭐ Starred [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+1. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
+2. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+3. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+4. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+5. ⭐ Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 28th, 2022, 2:05:12 AM
+Last Updated: Tuesday, March 29th, 2022, 2:04:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
