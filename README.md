@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos)
-2. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
-3. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
-4. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-5. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+1. ⭐ Starred [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+2. ⭐ Starred [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos)
+3. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
+4. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+5. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 18th, 2022, 2:11:01 AM
+Last Updated: Tuesday, April 19th, 2022, 2:10:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
