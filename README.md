@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
-2. ⭐ Starred [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos)
-3. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
-4. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
-5. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+1. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
+2. ⭐ Starred [Josee9988/project-template](https://github.com/Josee9988/project-template)
+3. ⭐ Starred [eonist/How-to-collaborate-on-github](https://github.com/eonist/How-to-collaborate-on-github)
+4. ⭐ Starred [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management)
+5. ⭐ Starred [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 27th, 2022, 2:12:54 AM
+Last Updated: Thursday, April 28th, 2022, 2:14:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
