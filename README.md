@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
-2. ⭐ Starred [Josee9988/project-template](https://github.com/Josee9988/project-template)
-3. ⭐ Starred [eonist/How-to-collaborate-on-github](https://github.com/eonist/How-to-collaborate-on-github)
-4. ⭐ Starred [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management)
-5. ⭐ Starred [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management)
+1. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
+2. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
+3. ⭐ Starred [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux)
+4. ⭐ Starred [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)
+5. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 4th, 2022, 2:12:51 AM
+Last Updated: Thursday, May 5th, 2022, 2:08:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
