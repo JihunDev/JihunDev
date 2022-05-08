@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
-2. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
-3. ⭐ Starred [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux)
-4. ⭐ Starred [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)
-5. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
+1. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+2. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+3. ⭐ Starred [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)
+4. ⭐ Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+5. ⭐ Starred [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 7th, 2022, 2:04:45 AM
+Last Updated: Sunday, May 8th, 2022, 2:11:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
