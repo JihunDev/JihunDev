@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
-2. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
-3. ⭐ Starred [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)
-4. ⭐ Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
-5. ⭐ Starred [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+1. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+2. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+3. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+4. ⭐ Starred [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)
+5. ⭐ Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 9th, 2022, 2:12:16 AM
+Last Updated: Tuesday, May 10th, 2022, 1:59:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
