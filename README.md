@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-2. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
-3. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
-4. ⭐ Starred [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)
-5. ⭐ Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+1. ⭐ Starred [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre)
+2. 📔 Created new repository [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
+3. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+4. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+5. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 10th, 2022, 1:59:54 AM
+Last Updated: Wednesday, May 11th, 2022, 2:10:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
