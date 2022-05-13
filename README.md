@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre)
-2. 📔 Created new repository [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
-3. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-4. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
-5. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+1. 🎉 Merged PR [#3](https://github.com/JihunDev/storybook-tutorial/pull/3) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
+2. 💪 Opened PR [#3](https://github.com/JihunDev/storybook-tutorial/pull/3) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
+3. ❌ Closed PR [#2](https://github.com/JihunDev/storybook-tutorial/pull/2) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
+4. ❌ Closed PR [#1](https://github.com/JihunDev/storybook-tutorial/pull/1) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
+5. 💪 Opened PR [#2](https://github.com/JihunDev/storybook-tutorial/pull/2) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 12th, 2022, 2:10:59 AM
+Last Updated: Friday, May 13th, 2022, 2:14:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
