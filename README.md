@@ -148,7 +148,7 @@ Last Updated: Wednesday, May 25th, 2022, 2:12:23 AM
 
 **🐱 My GitHub Data** 
 
-> 🏆 716 Contributions in the Year 2022
+> 🏆 720 Contributions in the Year 2022
  > 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
@@ -187,21 +187,16 @@ Sunday       68 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-HTML                     46 mins             ███████████░░░░░░░░░░░░░░   45.48% 
-Python                   34 mins             ████████░░░░░░░░░░░░░░░░░   33.57% 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.44% 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cusMe_web                1 hr 25 mins        ████████████████████░░░░░   83.21% 
-cusme_consultant_vue     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 43 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -218,7 +213,7 @@ JavaScript               8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2022 18:42:04 UTC
+ Last Updated on 25/05/2022 18:41:13 UTC
 <!--END_SECTION:waka-->
     
 </details>
