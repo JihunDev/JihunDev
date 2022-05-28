@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/JihunDev/storybook-tutorial/pull/3) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
-2. 💪 Opened PR [#3](https://github.com/JihunDev/storybook-tutorial/pull/3) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
-3. ❌ Closed PR [#2](https://github.com/JihunDev/storybook-tutorial/pull/2) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
-4. ❌ Closed PR [#1](https://github.com/JihunDev/storybook-tutorial/pull/1) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
-5. 💪 Opened PR [#2](https://github.com/JihunDev/storybook-tutorial/pull/2) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
+1. ⭐ Starred [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
+2. 🎉 Merged PR [#3](https://github.com/JihunDev/storybook-tutorial/pull/3) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
+3. 💪 Opened PR [#3](https://github.com/JihunDev/storybook-tutorial/pull/3) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
+4. ❌ Closed PR [#2](https://github.com/JihunDev/storybook-tutorial/pull/2) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
+5. ❌ Closed PR [#1](https://github.com/JihunDev/storybook-tutorial/pull/1) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 27th, 2022, 2:11:09 AM
+Last Updated: Saturday, May 28th, 2022, 2:08:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
