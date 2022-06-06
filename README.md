@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
-2. ⭐ Starred [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup)
-3. ⭐ Starred [dend/awesome-product-management](https://github.com/dend/awesome-product-management)
-4. ⭐ Starred [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
-5. 🎉 Merged PR [#3](https://github.com/JihunDev/storybook-tutorial/pull/3) in [JihunDev/storybook-tutorial](https://github.com/JihunDev/storybook-tutorial)
+1. ⭐ Starred [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)
+2. ⭐ Starred [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
+3. ⭐ Starred [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup)
+4. ⭐ Starred [dend/awesome-product-management](https://github.com/dend/awesome-product-management)
+5. ⭐ Starred [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 5th, 2022, 2:12:38 AM
+Last Updated: Monday, June 6th, 2022, 2:12:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
