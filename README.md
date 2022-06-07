@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)
-2. ⭐ Starred [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
-3. ⭐ Starred [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup)
-4. ⭐ Starred [dend/awesome-product-management](https://github.com/dend/awesome-product-management)
-5. ⭐ Starred [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
+1. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
+2. ⭐ Starred [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)
+3. ⭐ Starred [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
+4. ⭐ Starred [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup)
+5. ⭐ Starred [dend/awesome-product-management](https://github.com/dend/awesome-product-management)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 6th, 2022, 2:12:38 AM
+Last Updated: Tuesday, June 7th, 2022, 2:09:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
