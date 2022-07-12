@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [leehosung/awesome-devteam](https://github.com/leehosung/awesome-devteam)
-2. ⭐ Starred [remotty/documents.docker.co.kr](https://github.com/remotty/documents.docker.co.kr)
-3. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
-4. ⭐ Starred [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)
-5. ⭐ Starred [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
+1. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+2. ⭐ Starred [leehosung/awesome-devteam](https://github.com/leehosung/awesome-devteam)
+3. ⭐ Starred [remotty/documents.docker.co.kr](https://github.com/remotty/documents.docker.co.kr)
+4. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
+5. ⭐ Starred [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 11th, 2022, 2:14:30 AM
+Last Updated: Tuesday, July 12th, 2022, 2:13:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
