@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
-2. ⭐ Starred [leehosung/awesome-devteam](https://github.com/leehosung/awesome-devteam)
-3. ⭐ Starred [remotty/documents.docker.co.kr](https://github.com/remotty/documents.docker.co.kr)
-4. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
-5. ⭐ Starred [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)
+1. ✔️ Closed issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+2. ❗️ Opened issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+3. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+4. ⭐ Starred [leehosung/awesome-devteam](https://github.com/leehosung/awesome-devteam)
+5. ⭐ Starred [remotty/documents.docker.co.kr](https://github.com/remotty/documents.docker.co.kr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 12th, 2022, 2:13:42 AM
+Last Updated: Wednesday, July 13th, 2022, 2:13:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
