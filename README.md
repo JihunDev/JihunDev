@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-2. ❗️ Opened issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-3. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
-4. ⭐ Starred [leehosung/awesome-devteam](https://github.com/leehosung/awesome-devteam)
-5. ⭐ Starred [remotty/documents.docker.co.kr](https://github.com/remotty/documents.docker.co.kr)
+1. ⭐ Starred [brave-people/brave-tech-interview](https://github.com/brave-people/brave-tech-interview)
+2. ✔️ Closed issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+3. ❗️ Opened issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+4. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+5. ⭐ Starred [leehosung/awesome-devteam](https://github.com/leehosung/awesome-devteam)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 13th, 2022, 2:13:27 AM
+Last Updated: Thursday, July 14th, 2022, 2:13:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
