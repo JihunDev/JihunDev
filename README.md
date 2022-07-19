@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [brave-people/brave-tech-interview](https://github.com/brave-people/brave-tech-interview)
-2. ✔️ Closed issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-3. ❗️ Opened issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-4. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
-5. ⭐ Starred [leehosung/awesome-devteam](https://github.com/leehosung/awesome-devteam)
+1. ⭐ Starred [yoonje/developer-interview-questions-and-answers](https://github.com/yoonje/developer-interview-questions-and-answers)
+2. ⭐ Starred [brave-people/brave-tech-interview](https://github.com/brave-people/brave-tech-interview)
+3. ✔️ Closed issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+4. ❗️ Opened issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+5. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 18th, 2022, 2:13:05 AM
+Last Updated: Tuesday, July 19th, 2022, 2:13:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
