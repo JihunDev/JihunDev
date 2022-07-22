@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yoonje/developer-interview-questions-and-answers](https://github.com/yoonje/developer-interview-questions-and-answers)
-2. ⭐ Starred [brave-people/brave-tech-interview](https://github.com/brave-people/brave-tech-interview)
-3. ✔️ Closed issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-4. ❗️ Opened issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-5. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+1. 📔 Created new repository [6OverFlow/.github](https://github.com/6OverFlow/.github)
+2. ⭐ Starred [yoonje/developer-interview-questions-and-answers](https://github.com/yoonje/developer-interview-questions-and-answers)
+3. ⭐ Starred [brave-people/brave-tech-interview](https://github.com/brave-people/brave-tech-interview)
+4. ✔️ Closed issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+5. ❗️ Opened issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 21st, 2022, 2:14:07 AM
+Last Updated: Friday, July 22nd, 2022, 2:13:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
