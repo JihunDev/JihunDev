@@ -96,15 +96,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [6OverFlow/.github](https://github.com/6OverFlow/.github)
-2. ⭐ Starred [yoonje/developer-interview-questions-and-answers](https://github.com/yoonje/developer-interview-questions-and-answers)
-3. ⭐ Starred [brave-people/brave-tech-interview](https://github.com/brave-people/brave-tech-interview)
-4. ✔️ Closed issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
-5. ❗️ Opened issue [#16](https://github.com/JihunDev/JihunDev.github.io/issues/16) in [JihunDev/JihunDev.github.io](https://github.com/JihunDev/JihunDev.github.io)
+1. ⭐ Starred [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+2. ⭐ Starred [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+3. 📔 Created new repository [6OverFlow/.github](https://github.com/6OverFlow/.github)
+4. ⭐ Starred [yoonje/developer-interview-questions-and-answers](https://github.com/yoonje/developer-interview-questions-and-answers)
+5. ⭐ Starred [brave-people/brave-tech-interview](https://github.com/brave-people/brave-tech-interview)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 25th, 2022, 2:15:04 AM
+Last Updated: Tuesday, July 26th, 2022, 2:13:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
