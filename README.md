@@ -28,14 +28,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" />
 	  
 	  
   ### IDE
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" />
 
 	  
   ### OS
@@ -45,13 +42,11 @@
 	  
   ### Tools
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
 
   </div>
 </details>
@@ -76,20 +71,6 @@
   </div>
 </details>
 
-<details>
-  <summary>Code kata</summary>
-  <br>
-  <div align=center>
-	  
-  ## Codewar
-  ![Codewars Rank](https://www.codewars.com/users/JihunDev/badges/large)
-
-  ## Baekjoon
-  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=commit)](https://solved.ac/commit)
-	  
-  </div>
-
-</details>
 
 <details>
   <summary>GitHub Activity</summary>
@@ -223,12 +204,7 @@ JavaScript               8 repos             ██░░░░░░░░░�
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/jihun-kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihun-kim" height="30" width="40" /></a>
-  <a href="https://twitter.com/jihundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jihundev" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/5311181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5311181" height="30" width="40" /></a>  
-  <a href="https://codepen.io/jihundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jihundev" height="30" width="40" /></a>
-  <a href="https://kaggle.com/jihundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jihundev" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/jihundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jihundev" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/jihundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jihundev" height="30" width="40" /></a>
   <a href="https://jihundev.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jihundev.github.io/feed.xml" height="30" width="40" /></a>
 </p>
 
