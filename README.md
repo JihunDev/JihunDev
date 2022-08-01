@@ -77,15 +77,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cheese10yun/dev-info](https://github.com/cheese10yun/dev-info)
-2. ⭐ Starred [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools)
-3. ⭐ Starred [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
-4. ⭐ Starred [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
-5. 📔 Created new repository [6OverFlow/.github](https://github.com/6OverFlow/.github)
+1. ⭐ Starred [CodeTest-StudyGroup/Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
+2. ⭐ Starred [HyeminNoh/Tech-Stack](https://github.com/HyeminNoh/Tech-Stack)
+3. ⭐ Starred [cheese10yun/dev-info](https://github.com/cheese10yun/dev-info)
+4. ⭐ Starred [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools)
+5. ⭐ Starred [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 31st, 2022, 2:13:21 AM
+Last Updated: Monday, August 1st, 2022, 2:13:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
