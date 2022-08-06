@@ -209,6 +209,3 @@ JavaScript               8 repos             ██░░░░░░░░░�
 </p>
 
 <br>
-
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
