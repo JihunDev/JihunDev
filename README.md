@@ -95,10 +95,10 @@ Last Updated: Saturday, August 6th, 2022, 2:13:20 AM
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [좋은 코드, 나쁜 코드 서평](https://jihundev.github.io/posts/%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C-%EB%82%98%EC%81%9C%EC%BD%94%EB%93%9C-%EC%84%9C%ED%8F%89/)
 - [Postgresql Error pg_config executable not found.](https://jihundev.github.io/posts/Postgresql_pg_config_executable_not_found/)
 - [구글 번역시 특정 부분 번역 제외 하기](https://jihundev.github.io/posts/block_google_translate/)
 - [Inbound, Outbound란](https://jihundev.github.io/posts/server_inbound_outbound/)
-- [GET, POST 방식](https://jihundev.github.io/posts/Web_get_post/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
