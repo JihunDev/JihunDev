@@ -211,7 +211,4 @@ JavaScript               8 repos             ██░░░░░░░░░�
 <br>
 
 
-<div align="center">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihunDev)](https://hits.seeyoufarm.com)
-</div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
