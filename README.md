@@ -77,15 +77,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CodeTest-StudyGroup/Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
-2. ⭐ Starred [HyeminNoh/Tech-Stack](https://github.com/HyeminNoh/Tech-Stack)
-3. ⭐ Starred [cheese10yun/dev-info](https://github.com/cheese10yun/dev-info)
-4. ⭐ Starred [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools)
-5. ⭐ Starred [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+1. ⭐ Starred [iterative/dvc](https://github.com/iterative/dvc)
+2. ⭐ Starred [CodeTest-StudyGroup/Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
+3. ⭐ Starred [HyeminNoh/Tech-Stack](https://github.com/HyeminNoh/Tech-Stack)
+4. ⭐ Starred [cheese10yun/dev-info](https://github.com/cheese10yun/dev-info)
+5. ⭐ Starred [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 9th, 2022, 2:13:00 AM
+Last Updated: Wednesday, August 10th, 2022, 2:08:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
