@@ -77,15 +77,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [InSeong-So/IT-Note](https://github.com/InSeong-So/IT-Note)
-2. ⭐ Starred [iterative/dvc](https://github.com/iterative/dvc)
-3. ⭐ Starred [CodeTest-StudyGroup/Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
-4. ⭐ Starred [HyeminNoh/Tech-Stack](https://github.com/HyeminNoh/Tech-Stack)
-5. ⭐ Starred [cheese10yun/dev-info](https://github.com/cheese10yun/dev-info)
+1. 🤝 Became collaborator on [Cusmos/cusmos.github.io](https://github.com/Cusmos/cusmos.github.io)
+2. ⭐ Starred [InSeong-So/IT-Note](https://github.com/InSeong-So/IT-Note)
+3. ⭐ Starred [iterative/dvc](https://github.com/iterative/dvc)
+4. ⭐ Starred [CodeTest-StudyGroup/Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
+5. ⭐ Starred [HyeminNoh/Tech-Stack](https://github.com/HyeminNoh/Tech-Stack)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 19th, 2022, 2:13:22 AM
+Last Updated: Saturday, August 20th, 2022, 2:13:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
