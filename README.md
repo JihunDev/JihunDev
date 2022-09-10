@@ -77,15 +77,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Cusmos/cusmos.github.io](https://github.com/Cusmos/cusmos.github.io)
-2. ⭐ Starred [InSeong-So/IT-Note](https://github.com/InSeong-So/IT-Note)
-3. ⭐ Starred [iterative/dvc](https://github.com/iterative/dvc)
-4. ⭐ Starred [CodeTest-StudyGroup/Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
-5. ⭐ Starred [HyeminNoh/Tech-Stack](https://github.com/HyeminNoh/Tech-Stack)
+1. ⭐ Starred [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)
+2. 🤝 Became collaborator on [Cusmos/cusmos.github.io](https://github.com/Cusmos/cusmos.github.io)
+3. ⭐ Starred [InSeong-So/IT-Note](https://github.com/InSeong-So/IT-Note)
+4. ⭐ Starred [iterative/dvc](https://github.com/iterative/dvc)
+5. ⭐ Starred [CodeTest-StudyGroup/Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 9th, 2022, 2:14:26 AM
+Last Updated: Saturday, September 10th, 2022, 2:13:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
