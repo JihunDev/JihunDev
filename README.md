@@ -77,15 +77,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
-2. ⭐ Starred [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-3. ⭐ Starred [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)
-4. 🤝 Became collaborator on [Cusmos/cusmos.github.io](https://github.com/Cusmos/cusmos.github.io)
-5. ⭐ Starred [InSeong-So/IT-Note](https://github.com/InSeong-So/IT-Note)
+1. ⭐ Starred [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
+2. ⭐ Starred [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
+3. ⭐ Starred [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+4. ⭐ Starred [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)
+5. 🤝 Became collaborator on [Cusmos/cusmos.github.io](https://github.com/Cusmos/cusmos.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 20th, 2022, 2:14:09 AM
+Last Updated: Wednesday, September 21st, 2022, 2:15:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
