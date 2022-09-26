@@ -129,7 +129,7 @@ Last Updated: Monday, September 26th, 2022, 2:14:22 AM
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,181 Contributions in the Year 2022
+> 🏆 1,187 Contributions in the Year 2022
  > 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
@@ -139,48 +139,6 @@ Last Updated: Monday, September 26th, 2022, 2:14:22 AM
  > 
 > 🔑 48 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    92 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
-🌆 Daytime    269 commits    ███████████░░░░░░░░░░░░░░   47.03% 
-🌃 Evening    162 commits    ███████░░░░░░░░░░░░░░░░░░   28.32% 
-🌙 Night      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.57%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Tuesday      84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
-Wednesday    74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
-Thursday     117 commits    █████░░░░░░░░░░░░░░░░░░░░   20.45% 
-Friday       98 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.13% 
-Saturday     91 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
-Sunday       56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -194,7 +152,7 @@ JavaScript               8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2022 18:42:29 UTC
+ Last Updated on 26/09/2022 18:43:42 UTC
 <!--END_SECTION:waka-->
     
 </details>
