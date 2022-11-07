@@ -77,15 +77,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
-2. ⭐ Starred [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
-3. ⭐ Starred [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. ⭐ Starred [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)
-5. 🤝 Became collaborator on [Cusmos/cusmos.github.io](https://github.com/Cusmos/cusmos.github.io)
+1. ⭐ Starred [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager)
+2. ⭐ Starred [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
+3. ⭐ Starred [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
+4. ⭐ Starred [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. ⭐ Starred [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 6th, 2022, 2:13:01 AM
+Last Updated: Monday, November 7th, 2022, 2:13:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
