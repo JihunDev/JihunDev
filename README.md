@@ -77,15 +77,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager)
-2. ⭐ Starred [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
-3. ⭐ Starred [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
-4. ⭐ Starred [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-5. ⭐ Starred [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)
+1. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+2. ⭐ Starred [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager)
+3. ⭐ Starred [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
+4. ⭐ Starred [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
+5. ⭐ Starred [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 8th, 2022, 2:12:17 AM
+Last Updated: Wednesday, November 9th, 2022, 2:13:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
