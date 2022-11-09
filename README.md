@@ -52,27 +52,6 @@
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
-  <br>
-  
-  
-<h2 align="center">Github Profile Trophy</h2>
-  <div align=center>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=JihunDev&theme=onedark&row=2&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-  </div>  
-<h2 align="center">My Github Stats</h2>
-  <div align=center>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihunDev&theme=dark&show_icons=true)
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JihunDev&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-  </div>
-</details>
-
-
-<details>
   <summary>GitHub Activity</summary>
   <br>
 
@@ -113,89 +92,6 @@ Last Updated: Wednesday, November 9th, 2022, 2:13:03 AM
 - [dspic33ev Doesn't work after changing pin number](https://stackoverflow.com/questions/59421621/dspic33ev-doesnt-work-after-changing-pin-number)
 - [Car speed measurement using 3-axis accelerometer](https://stackoverflow.com/questions/59171821/car-speed-measurement-using-3-axis-accelerometer)
 <!-- STACKOVERFLOW:END -->
-    
-</details>
-
-<details>
-  <summary>WakaTime</summary>
-  <br>
-<div align="center">  
-
-  [![wakatime](https://wakatime.com/badge/user/5dbb20ab-159d-49e1-9f66-2dc135f07d80.svg)](https://wakatime.com/@5dbb20ab-159d-49e1-9f66-2dc135f07d80)
-</div>
-  
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C761%20hrs%2036%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 1,328 Contributions in the Year 2022
- > 
-> 📦 1.6 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 45 Public Repositories 
- > 
-> 🔑 50 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
-🌆 Daytime    281 commits    ████████████░░░░░░░░░░░░░   47.71% 
-🌃 Evening    180 commits    ███████░░░░░░░░░░░░░░░░░░   30.56% 
-🌙 Night      39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.62%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Tuesday      104 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
-Wednesday    65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
-Thursday     115 commits    █████░░░░░░░░░░░░░░░░░░░░   19.52% 
-Friday       106 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.0% 
-Saturday     84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
-Sunday       53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Bash                     18 mins             █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-rtabmap                  18 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in C** 
-
-```text
-C                        21 repos            ██████░░░░░░░░░░░░░░░░░░░   25.61% 
-Java                     15 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.29% 
-Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
-C++                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76%
-
-```
-
-
-
- Last Updated on 08/11/2022 18:44:58 UTC
-<!--END_SECTION:waka-->
     
 </details>
 
