@@ -3,10 +3,10 @@
 <h3 align="center">A passionate Embedded developer from Korea</h3>
 
 - 🔭 I’m currently working on Project from CUSMOS
-- 🌱 I’m currently learning on Django
+- 🌱 I’m currently learning on Software engineering
 - 💬 Ask me about C,Cpp and Python
-- 😄 Pronouns: Embedded Linux, Autonomus Driving, Firmware
-- 📝 I regularly write articles on [jihundev.github.io/](jihundev.github.io/)
+- 😄 Pronouns: Autonomus Driving, Embedded Linux, Firmware
+- 📝 I regularly write articles on [jihundev.github.io](https://jihundev.github.io/)
 - 📫 How to reach me **jihun.dev@gmail.com**
 - 👍 Favorite programming quote
   > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
