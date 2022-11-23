@@ -56,15 +56,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
-2. ⭐ Starred [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager)
-3. ⭐ Starred [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
-4. ⭐ Starred [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
-5. ⭐ Starred [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+1. ⭐ Starred [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
+2. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+3. ⭐ Starred [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager)
+4. ⭐ Starred [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
+5. ⭐ Starred [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 22nd, 2022, 2:11:15 AM
+Last Updated: Wednesday, November 23rd, 2022, 2:06:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
