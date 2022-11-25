@@ -56,15 +56,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
-2. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
-3. ⭐ Starred [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager)
-4. ⭐ Starred [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
-5. ⭐ Starred [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
+1. 🎉 Merged PR [#1](https://github.com/JihunDev/extract_image_metadate_in_python/pull/1) in [JihunDev/extract_image_metadate_in_python](https://github.com/JihunDev/extract_image_metadate_in_python)
+2. ⭐ Starred [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
+3. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+4. ⭐ Starred [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager)
+5. ⭐ Starred [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 24th, 2022, 2:05:31 AM
+Last Updated: Friday, November 25th, 2022, 2:05:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
