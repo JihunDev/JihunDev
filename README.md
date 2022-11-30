@@ -56,15 +56,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-2. 🎉 Merged PR [#1](https://github.com/JihunDev/extract_image_metadate_in_python/pull/1) in [JihunDev/extract_image_metadate_in_python](https://github.com/JihunDev/extract_image_metadate_in_python)
-3. ⭐ Starred [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
-4. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
-5. ⭐ Starred [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager)
+1. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
+2. ⭐ Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+3. 🎉 Merged PR [#1](https://github.com/JihunDev/extract_image_metadate_in_python/pull/1) in [JihunDev/extract_image_metadate_in_python](https://github.com/JihunDev/extract_image_metadate_in_python)
+4. ⭐ Starred [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
+5. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 29th, 2022, 2:03:25 AM
+Last Updated: Wednesday, November 30th, 2022, 2:03:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
