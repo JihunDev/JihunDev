@@ -56,15 +56,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
-2. ⭐ Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-3. 🎉 Merged PR [#1](https://github.com/JihunDev/extract_image_metadate_in_python/pull/1) in [JihunDev/extract_image_metadate_in_python](https://github.com/JihunDev/extract_image_metadate_in_python)
-4. ⭐ Starred [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
-5. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+1. ⭐ Starred [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
+2. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
+3. ⭐ Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+4. 🎉 Merged PR [#1](https://github.com/JihunDev/extract_image_metadate_in_python/pull/1) in [JihunDev/extract_image_metadate_in_python](https://github.com/JihunDev/extract_image_metadate_in_python)
+5. ⭐ Starred [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 1st, 2022, 2:10:39 AM
+Last Updated: Friday, December 2nd, 2022, 2:00:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
