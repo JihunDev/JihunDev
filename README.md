@@ -56,15 +56,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#623](https://github.com/iCHAIT/awesome-macOS/issues/623) in [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
-2. ⭐ Starred [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
-3. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
-4. ⭐ Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-5. 🎉 Merged PR [#1](https://github.com/JihunDev/extract_image_metadate_in_python/pull/1) in [JihunDev/extract_image_metadate_in_python](https://github.com/JihunDev/extract_image_metadate_in_python)
+1. ⭐ Starred [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
+2. ❗️ Opened issue [#623](https://github.com/iCHAIT/awesome-macOS/issues/623) in [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+3. ⭐ Starred [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
+4. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
+5. ⭐ Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 20th, 2022, 1:57:51 AM
+Last Updated: Wednesday, December 21st, 2022, 1:55:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
