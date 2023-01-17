@@ -56,15 +56,15 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
-2. ❗️ Opened issue [#623](https://github.com/iCHAIT/awesome-macOS/issues/623) in [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
-3. ⭐ Starred [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
-4. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
-5. ⭐ Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+1. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+2. ⭐ Starred [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
+3. ❗️ Opened issue [#623](https://github.com/iCHAIT/awesome-macOS/issues/623) in [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+4. ⭐ Starred [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
+5. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 16th, 2023, 1:58:40 AM
+Last Updated: Tuesday, January 17th, 2023, 1:59:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
