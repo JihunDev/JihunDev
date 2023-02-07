@@ -94,13 +94,3 @@ Last Updated: Tuesday, February 7th, 2023, 1:58:23 AM
 <!-- STACKOVERFLOW:END -->
     
 </details>
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/jihun-kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihun-kim" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/5311181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5311181" height="30" width="40" /></a>
-</p>
-
-<br>
