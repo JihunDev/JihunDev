@@ -8,9 +8,6 @@
 - 😄 Pronouns: Autonomus Driving, Embedded Linux, Firmware
 - 📝 I regularly write articles on [jihundev.github.io](https://jihundev.github.io/)
 - 📫 How to reach me **jihun.dev@gmail.com**
-- 👍 Favorite programming quote
-  > "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
-  > - Linus Torval
 
 
 <details>
@@ -28,18 +25,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-	  
-	  
+  
+  ### Framework
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="python" width="40" height="40" />
+ 
   ### IDE
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
 
-	  
-  ### OS
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40" />
-
-	  
   ### Tools
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
@@ -62,10 +55,6 @@
 4. ⭐ Starred [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
 5. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
 <!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 7th, 2023, 1:58:23 AM
-<!--RECENT_ACTIVITY:last_update_end-->
   
 </details>
   
