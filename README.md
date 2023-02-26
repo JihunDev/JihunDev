@@ -63,10 +63,10 @@
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [디지털 비주얼 씽킹 서평](https://jihundev.github.io/posts/Digital_Visual_Thinking_Book-Review/)
 - [코딩 인터뷰를 위한 알고리즘 치트시트 서평](https://jihundev.github.io/posts/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B9%98%ED%8A%B8%EC%8B%9C%ED%8A%B8-%EC%84%9C%ED%8F%89/)
 - [좋은 코드, 나쁜 코드 서평](https://jihundev.github.io/posts/%EC%A2%8B%EC%9D%80%EC%BD%94%EB%93%9C-%EB%82%98%EC%81%9C%EC%BD%94%EB%93%9C-%EC%84%9C%ED%8F%89/)
 - [Postgresql Error pg_config executable not found.](https://jihundev.github.io/posts/Postgresql_pg_config_executable_not_found/)
-- [구글 번역시 특정 부분 번역 제외 하기](https://jihundev.github.io/posts/block_google_translate/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
