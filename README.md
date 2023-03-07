@@ -49,10 +49,10 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
-2. ⭐ Starred [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
-3. ❗️ Opened issue [#623](https://github.com/iCHAIT/awesome-macOS/issues/623) in [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
-4. ⭐ Starred [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
+1. ⭐ Starred [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+2. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+3. ⭐ Starred [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
+4. ❗️ Opened issue [#623](https://github.com/iCHAIT/awesome-macOS/issues/623) in [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
 5. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
 <!--RECENT_ACTIVITY:end-->
   
