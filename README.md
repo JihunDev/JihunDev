@@ -76,6 +76,7 @@
   <br>
  
 <!-- STACKOVERFLOW:START -->
+- [How to use XADC's GPIO on Xilinx KC705 FPGA](https://stackoverflow.com/questions/76014345/how-to-use-xadcs-gpio-on-xilinx-kc705-fpga)
 - [Comment by Jihun Kim on Car speed measurement using 3-axis accelerometer](https://stackoverflow.com/questions/59171821/car-speed-measurement-using-3-axis-accelerometer/59843250#59843250)
 - [Answer by Jihun Kim for dspic33ev Doesn't work after changing pin number](https://stackoverflow.com/questions/59421621/dspic33ev-doesnt-work-after-changing-pin-number/59448909#59448909)
 - [dspic33ev Doesn't work after changing pin number](https://stackoverflow.com/questions/59421621/dspic33ev-doesnt-work-after-changing-pin-number)
