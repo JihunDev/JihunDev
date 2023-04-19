@@ -49,8 +49,8 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
-2. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+1. 📔 Created new repository [JihunDev/PTZ-Camera-control](https://github.com/JihunDev/PTZ-Camera-control)
+2. ⭐ Starred [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 3. ⭐ Starred [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
 4. ❗️ Opened issue [#623](https://github.com/iCHAIT/awesome-macOS/issues/623) in [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
 5. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
