@@ -49,9 +49,9 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JihunDev/PTZ-Camera-control](https://github.com/JihunDev/PTZ-Camera-control)
-2. ⭐ Starred [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
-3. ⭐ Starred [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
+1. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
+2. 📔 Created new repository [JihunDev/PTZ-Camera-control](https://github.com/JihunDev/PTZ-Camera-control)
+3. ⭐ Starred [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 4. ❗️ Opened issue [#623](https://github.com/iCHAIT/awesome-macOS/issues/623) in [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
 5. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
 <!--RECENT_ACTIVITY:end-->
