@@ -49,10 +49,10 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
-2. 📔 Created new repository [JihunDev/PTZ-Camera-control](https://github.com/JihunDev/PTZ-Camera-control)
-3. ⭐ Starred [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
-4. ❗️ Opened issue [#623](https://github.com/iCHAIT/awesome-macOS/issues/623) in [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+1. ❗️ Opened issue [#70](https://github.com/xmos/vocalfusion-rpi-setup/issues/70) in [xmos/vocalfusion-rpi-setup](https://github.com/xmos/vocalfusion-rpi-setup)
+2. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
+3. 📔 Created new repository [JihunDev/PTZ-Camera-control](https://github.com/JihunDev/PTZ-Camera-control)
+4. ⭐ Starred [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 5. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
 <!--RECENT_ACTIVITY:end-->
   
