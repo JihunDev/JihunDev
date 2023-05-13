@@ -49,11 +49,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#70](https://github.com/xmos/vocalfusion-rpi-setup/issues/70) in [xmos/vocalfusion-rpi-setup](https://github.com/xmos/vocalfusion-rpi-setup)
-2. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
-3. 📔 Created new repository [JihunDev/PTZ-Camera-control](https://github.com/JihunDev/PTZ-Camera-control)
-4. ⭐ Starred [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
-5. ⭐ Starred [Ibexoft/awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
+1. ❗️ Opened issue [#2](https://github.com/OpenVoiceOS/VocalFusionDriver/issues/2) in [OpenVoiceOS/VocalFusionDriver](https://github.com/OpenVoiceOS/VocalFusionDriver)
+2. ❗️ Opened issue [#70](https://github.com/xmos/vocalfusion-rpi-setup/issues/70) in [xmos/vocalfusion-rpi-setup](https://github.com/xmos/vocalfusion-rpi-setup)
+3. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
+4. 📔 Created new repository [JihunDev/PTZ-Camera-control](https://github.com/JihunDev/PTZ-Camera-control)
+5. ⭐ Starred [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
