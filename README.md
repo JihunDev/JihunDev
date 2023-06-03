@@ -49,11 +49,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2](https://github.com/OpenVoiceOS/VocalFusionDriver/issues/2) in [OpenVoiceOS/VocalFusionDriver](https://github.com/OpenVoiceOS/VocalFusionDriver)
-2. ❗️ Opened issue [#70](https://github.com/xmos/vocalfusion-rpi-setup/issues/70) in [xmos/vocalfusion-rpi-setup](https://github.com/xmos/vocalfusion-rpi-setup)
-3. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
-4. 📔 Created new repository [JihunDev/PTZ-Camera-control](https://github.com/JihunDev/PTZ-Camera-control)
-5. ⭐ Starred [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+1. ✔️ Closed issue [#70](https://github.com/xmos/vocalfusion-rpi-setup/issues/70) in [xmos/vocalfusion-rpi-setup](https://github.com/xmos/vocalfusion-rpi-setup)
+2. ✔️ Closed issue [#2](https://github.com/OpenVoiceOS/VocalFusionDriver/issues/2) in [OpenVoiceOS/VocalFusionDriver](https://github.com/OpenVoiceOS/VocalFusionDriver)
+3. ❗️ Opened issue [#2](https://github.com/OpenVoiceOS/VocalFusionDriver/issues/2) in [OpenVoiceOS/VocalFusionDriver](https://github.com/OpenVoiceOS/VocalFusionDriver)
+4. ❗️ Opened issue [#70](https://github.com/xmos/vocalfusion-rpi-setup/issues/70) in [xmos/vocalfusion-rpi-setup](https://github.com/xmos/vocalfusion-rpi-setup)
+5. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
