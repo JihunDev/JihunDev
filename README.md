@@ -63,10 +63,10 @@
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [프로덕트 매니지먼트 서평](https://jihundev.github.io/posts/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A7%80%EB%A8%BC%ED%8A%B8-%EC%84%9C%ED%8F%89/)
 - [복붙 개발자의 벼락 성공기 서평](https://jihundev.github.io/posts/%EB%B3%B5%EB%B6%99-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%B2%BC%EB%9D%BD-%EC%84%B1%EA%B3%B5%EA%B8%B0-%EC%84%9C%ED%8F%89/)
 - [추천 시스템 입문 서평](https://jihundev.github.io/posts/%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9E%85%EB%AC%B8-%EC%84%9C%ED%8F%89/)
 - [머신러닝 시스템설계 서평](https://jihundev.github.io/posts/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%84%A4%EA%B3%84-%EC%84%9C%ED%8F%89/)
-- [트랜스포머를 활용한 자연어 처리 서평](https://jihundev.github.io/posts/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
