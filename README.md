@@ -63,10 +63,10 @@
   <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [육각형 개발자 서평](https://jihundev.github.io/posts/%EC%9C%A1%EA%B0%81%ED%98%95-%EA%B0%9C%EB%B0%9C%EC%9E%90/)
 - [프로덕트 매니지먼트 서평](https://jihundev.github.io/posts/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A7%80%EB%A8%BC%ED%8A%B8-%EC%84%9C%ED%8F%89/)
 - [복붙 개발자의 벼락 성공기 서평](https://jihundev.github.io/posts/%EB%B3%B5%EB%B6%99-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%B2%BC%EB%9D%BD-%EC%84%B1%EA%B3%B5%EA%B8%B0-%EC%84%9C%ED%8F%89/)
 - [추천 시스템 입문 서평](https://jihundev.github.io/posts/%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9E%85%EB%AC%B8-%EC%84%9C%ED%8F%89/)
-- [머신러닝 시스템설계 서평](https://jihundev.github.io/posts/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%84%A4%EA%B3%84-%EC%84%9C%ED%8F%89/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
