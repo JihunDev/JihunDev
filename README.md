@@ -49,7 +49,7 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#70](https://github.com/xmos/vocalfusion-rpi-setup/issues/70) in [xmos/vocalfusion-rpi-setup](https://github.com/xmos/vocalfusion-rpi-setup)
+1. ⭐ Starred [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
 2. ✔️ Closed issue [#2](https://github.com/OpenVoiceOS/VocalFusionDriver/issues/2) in [OpenVoiceOS/VocalFusionDriver](https://github.com/OpenVoiceOS/VocalFusionDriver)
 3. ❗️ Opened issue [#2](https://github.com/OpenVoiceOS/VocalFusionDriver/issues/2) in [OpenVoiceOS/VocalFusionDriver](https://github.com/OpenVoiceOS/VocalFusionDriver)
 4. ❗️ Opened issue [#70](https://github.com/xmos/vocalfusion-rpi-setup/issues/70) in [xmos/vocalfusion-rpi-setup](https://github.com/xmos/vocalfusion-rpi-setup)
