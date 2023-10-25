@@ -49,9 +49,9 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [JihunDev/autoware-documentation](https://github.com/JihunDev/autoware-documentation) from [autowarefoundation/autoware-documentation](https://github.com/autowarefoundation/autoware-documentation)
-2. ⭐ Starred [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
-3. ❗️ Opened issue [#2](https://github.com/OpenVoiceOS/VocalFusionDriver/issues/2) in [OpenVoiceOS/VocalFusionDriver](https://github.com/OpenVoiceOS/VocalFusionDriver)
+1. ⭐ Starred [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts)
+2. 🔱 Forked [JihunDev/autoware-documentation](https://github.com/JihunDev/autoware-documentation) from [autowarefoundation/autoware-documentation](https://github.com/autowarefoundation/autoware-documentation)
+3. ⭐ Starred [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
 4. ❗️ Opened issue [#70](https://github.com/xmos/vocalfusion-rpi-setup/issues/70) in [xmos/vocalfusion-rpi-setup](https://github.com/xmos/vocalfusion-rpi-setup)
 5. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
 <!--RECENT_ACTIVITY:end-->
