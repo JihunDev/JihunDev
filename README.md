@@ -49,10 +49,10 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts)
-2. 🔱 Forked [JihunDev/autoware-documentation](https://github.com/JihunDev/autoware-documentation) from [autowarefoundation/autoware-documentation](https://github.com/autowarefoundation/autoware-documentation)
-3. ⭐ Starred [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
-4. ❗️ Opened issue [#70](https://github.com/xmos/vocalfusion-rpi-setup/issues/70) in [xmos/vocalfusion-rpi-setup](https://github.com/xmos/vocalfusion-rpi-setup)
+1. 📔 Created new repository [JihunDev/glowing-spoon](https://github.com/JihunDev/glowing-spoon)
+2. ⭐ Starred [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts)
+3. 🔱 Forked [JihunDev/autoware-documentation](https://github.com/JihunDev/autoware-documentation) from [autowarefoundation/autoware-documentation](https://github.com/autowarefoundation/autoware-documentation)
+4. ⭐ Starred [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
 5. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
 <!--RECENT_ACTIVITY:end-->
   
