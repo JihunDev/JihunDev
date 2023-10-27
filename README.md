@@ -49,11 +49,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JihunDev/glowing-spoon](https://github.com/JihunDev/glowing-spoon)
-2. ⭐ Starred [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts)
-3. 🔱 Forked [JihunDev/autoware-documentation](https://github.com/JihunDev/autoware-documentation) from [autowarefoundation/autoware-documentation](https://github.com/autowarefoundation/autoware-documentation)
-4. ⭐ Starred [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
-5. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
+1. ⭐ Starred [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+2. 📔 Created new repository [JihunDev/glowing-spoon](https://github.com/JihunDev/glowing-spoon)
+3. ⭐ Starred [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts)
+4. 🔱 Forked [JihunDev/autoware-documentation](https://github.com/JihunDev/autoware-documentation) from [autowarefoundation/autoware-documentation](https://github.com/autowarefoundation/autoware-documentation)
+5. ⭐ Starred [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
