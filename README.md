@@ -49,10 +49,10 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Deephome/Awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
-2. ⭐ Starred [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
-3. ⭐ Starred [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
-4. 📔 Created new repository [JihunDev/glowing-spoon](https://github.com/JihunDev/glowing-spoon)
+1. ⭐ Starred [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+2. ⭐ Starred [Deephome/Awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
+3. ⭐ Starred [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+4. ⭐ Starred [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 5. ⭐ Starred [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts)
 <!--RECENT_ACTIVITY:end-->
   
