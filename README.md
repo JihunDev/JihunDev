@@ -49,11 +49,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [linexjlin/GPTs](https://github.com/linexjlin/GPTs)
-2. ⭐ Starred [automatisch/automatisch](https://github.com/automatisch/automatisch)
-3. ⭐ Starred [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-4. ⭐ Starred [Deephome/Awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
-5. ⭐ Starred [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+1. ⭐ Starred [devicons/devicon](https://github.com/devicons/devicon)
+2. ⭐ Starred [linexjlin/GPTs](https://github.com/linexjlin/GPTs)
+3. ⭐ Starred [automatisch/automatisch](https://github.com/automatisch/automatisch)
+4. ⭐ Starred [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+5. ⭐ Starred [Deephome/Awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
