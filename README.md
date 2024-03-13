@@ -50,11 +50,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [I-S00N/I-S00N](https://github.com/I-S00N/I-S00N)
-2. ⭐ Starred [devicons/devicon](https://github.com/devicons/devicon)
-3. ⭐ Starred [linexjlin/GPTs](https://github.com/linexjlin/GPTs)
-4. ⭐ Starred [automatisch/automatisch](https://github.com/automatisch/automatisch)
-5. ⭐ Starred [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+1. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+2. ⭐ Starred [charlax/professional-programming](https://github.com/charlax/professional-programming)
+3. ⭐ Starred [I-S00N/I-S00N](https://github.com/I-S00N/I-S00N)
+4. ⭐ Starred [devicons/devicon](https://github.com/devicons/devicon)
+5. ⭐ Starred [linexjlin/GPTs](https://github.com/linexjlin/GPTs)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
