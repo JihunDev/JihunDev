@@ -50,11 +50,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [joshuakto/fit](https://github.com/joshuakto/fit)
-2. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
-3. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
-4. ⭐ Starred [charlax/professional-programming](https://github.com/charlax/professional-programming)
-5. ⭐ Starred [I-S00N/I-S00N](https://github.com/I-S00N/I-S00N)
+1. ⭐ Starred [catppuccin/tmux](https://github.com/catppuccin/tmux)
+2. ⭐ Starred [joshuakto/fit](https://github.com/joshuakto/fit)
+3. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
+4. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+5. ⭐ Starred [charlax/professional-programming](https://github.com/charlax/professional-programming)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
