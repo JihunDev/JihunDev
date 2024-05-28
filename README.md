@@ -50,11 +50,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-2. ⭐ Starred [sharkdp/bat](https://github.com/sharkdp/bat)
-3. ⭐ Starred [catppuccin/tmux](https://github.com/catppuccin/tmux)
-4. ⭐ Starred [joshuakto/fit](https://github.com/joshuakto/fit)
-5. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
+1. ⭐ Starred [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
+2. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+3. ⭐ Starred [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+4. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+5. ⭐ Starred [sharkdp/bat](https://github.com/sharkdp/bat)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
