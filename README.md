@@ -60,11 +60,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
-2. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
-3. ⭐ Starred [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
-4. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-5. ⭐ Starred [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+1. ⭐ Starred [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management)
+2. ⭐ Starred [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
+3. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
+4. ⭐ Starred [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
+5. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
