@@ -2,8 +2,8 @@
 
 <h3 align="center">A passionate Embedded developer from Korea</h3>
 
-- 🌱 I’m currently learning on Software engineering
-- 💬 Ask me about C,Cpp, Python and Rust
+- 🌱 I’m currently learning on Software engineering, Rust
+- 💬 Ask me about C, C++, Python and Rust
 - 😄 Pronouns: Embedded Linux, Firmware, Autonomus Driving
 - 📝 I regularly write articles on [jihundev.github.io](https://jihundev.github.io/)
 - 📫 How to contact me by e-mail
@@ -68,19 +68,6 @@
 <!--RECENT_ACTIVITY:end-->
   
 </details>
-  
-<details>
-  <summary>Blog Activity</summary>
-  <br>
-
-<!-- BLOG-POST-LIST:START -->
-- [머신러닝 엔지니어링 인 액션 서평](https://jihundev.github.io/posts/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%9D%B8-%EC%95%A1%EC%85%98/)
-- [스티븐 울프럼의 챗GPT 강의](https://jihundev.github.io/posts/%EC%8A%A4%ED%8B%B0%EB%B8%8C-%EC%9A%B8%ED%94%84%EB%9F%BC%EC%9D%98-%EC%B1%97GPT-%EA%B0%95%EC%9D%98/)
-- [진화적 아키텍처 서평](https://jihundev.github.io/posts/%EC%A7%84%ED%99%94%EC%A0%81-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/)
-- [육각형 개발자 서평](https://jihundev.github.io/posts/%EC%9C%A1%EA%B0%81%ED%98%95-%EA%B0%9C%EB%B0%9C%EC%9E%90/)
-<!-- BLOG-POST-LIST:END -->
-
-</details>
 
 <details>
   <summary>StackOverFlow Activity</summary>
@@ -95,3 +82,17 @@
 <!-- STACKOVERFLOW:END -->
     
 </details>
+  
+<details>
+  <summary>Blog Activity</summary>
+  <br>
+
+<!-- BLOG-POST-LIST:START -->
+- [머신러닝 엔지니어링 인 액션 서평](https://jihundev.github.io/posts/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%9D%B8-%EC%95%A1%EC%85%98/)
+- [스티븐 울프럼의 챗GPT 강의](https://jihundev.github.io/posts/%EC%8A%A4%ED%8B%B0%EB%B8%8C-%EC%9A%B8%ED%94%84%EB%9F%BC%EC%9D%98-%EC%B1%97GPT-%EA%B0%95%EC%9D%98/)
+- [진화적 아키텍처 서평](https://jihundev.github.io/posts/%EC%A7%84%ED%99%94%EC%A0%81-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/)
+- [육각형 개발자 서평](https://jihundev.github.io/posts/%EC%9C%A1%EA%B0%81%ED%98%95-%EA%B0%9C%EB%B0%9C%EC%9E%90/)
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+
