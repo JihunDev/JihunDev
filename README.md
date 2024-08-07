@@ -60,11 +60,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
-2. ⭐ Starred [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management)
-3. ⭐ Starred [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
-4. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
-5. ⭐ Starred [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
+1. ⭐ Starred [dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable)
+2. 💪 Opened PR [#596](https://github.com/autowarefoundation/autoware-documentation/pull/596) in [autowarefoundation/autoware-documentation](https://github.com/autowarefoundation/autoware-documentation)
+3. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+4. ⭐ Starred [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management)
+5. ⭐ Starred [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
