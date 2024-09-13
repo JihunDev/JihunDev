@@ -48,6 +48,20 @@
 </details>
 
 <details>
+  <summary>CodeKata Activity</summary>
+  <br>
+  <div align=center>
+    
+  ### Codewars
+  ![Codewars](https://github.r2v.ch/codewars?user=JihunDev&top_languages=true)
+  
+  ### LeetCode
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/JihunDev?ext=heatmap)
+  
+  </div>
+</details>
+
+<details>
   <summary>GitHub Activity</summary>
   <br>
 
