@@ -66,11 +66,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
-2. ⭐ Starred [usdot-fhwa-stol/carma-platform](https://github.com/usdot-fhwa-stol/carma-platform)
-3. 🔱 Forked [JihunDev/jekyll-theme-chirpy](https://github.com/JihunDev/jekyll-theme-chirpy) from [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-4. ⭐ Starred [raycast/script-commands](https://github.com/raycast/script-commands)
-5. ⭐ Starred [dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable)
+1. ⭐ Starred [carla-simulator/carla](https://github.com/carla-simulator/carla)
+2. ⭐ Starred [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
+3. ⭐ Starred [usdot-fhwa-stol/carma-platform](https://github.com/usdot-fhwa-stol/carma-platform)
+4. 🔱 Forked [JihunDev/jekyll-theme-chirpy](https://github.com/JihunDev/jekyll-theme-chirpy) from [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+5. ⭐ Starred [raycast/script-commands](https://github.com/raycast/script-commands)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
