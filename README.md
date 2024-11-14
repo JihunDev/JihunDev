@@ -66,11 +66,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
-2. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-3. ⭐ Starred [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000)
-4. ⭐ Starred [carla-simulator/carla](https://github.com/carla-simulator/carla)
-5. ⭐ Starred [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
+1. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+2. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
+3. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+4. ⭐ Starred [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000)
+5. ⭐ Starred [carla-simulator/carla](https://github.com/carla-simulator/carla)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
