@@ -66,11 +66,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
-2. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
-3. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-4. ⭐ Starred [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000)
-5. ⭐ Starred [carla-simulator/carla](https://github.com/carla-simulator/carla)
+1. 🎉 Merged PR [#1](https://github.com/JihunDev/awesome-developer-community-in-korea/pull/1) in [JihunDev/awesome-developer-community-in-korea](https://github.com/JihunDev/awesome-developer-community-in-korea)
+2. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+3. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
+4. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+5. ⭐ Starred [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
