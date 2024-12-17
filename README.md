@@ -43,6 +43,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40" />
+
+  ## Github Trophy
+  ![GithubTrophy](https://github-profile-trophy.vercel.app/?username=jihundev&theme=alduin&column=4&margin-w=15&margin-h=15)
   
   </div>
 </details>
