@@ -69,11 +69,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/JihunDev/awesome-developer-community-in-korea/pull/1) in [JihunDev/awesome-developer-community-in-korea](https://github.com/JihunDev/awesome-developer-community-in-korea)
-2. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
-3. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
-4. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-5. ⭐ Starred [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000)
+1. 🔱 Forked [JihunDev/jekyll-theme-chirpy](https://github.com/JihunDev/jekyll-theme-chirpy) from [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+2. 🎉 Merged PR [#1](https://github.com/JihunDev/awesome-developer-community-in-korea/pull/1) in [JihunDev/awesome-developer-community-in-korea](https://github.com/JihunDev/awesome-developer-community-in-korea)
+3. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+4. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
+5. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
