@@ -69,11 +69,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
-2. 🔱 Forked [JihunDev/jekyll-theme-chirpy](https://github.com/JihunDev/jekyll-theme-chirpy) from [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-3. 🎉 Merged PR [#1](https://github.com/JihunDev/awesome-developer-community-in-korea/pull/1) in [JihunDev/awesome-developer-community-in-korea](https://github.com/JihunDev/awesome-developer-community-in-korea)
-4. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
-5. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
+1. ⭐ Starred [ollama/ollama](https://github.com/ollama/ollama)
+2. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
+3. 🔱 Forked [JihunDev/jekyll-theme-chirpy](https://github.com/JihunDev/jekyll-theme-chirpy) from [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+4. 🎉 Merged PR [#1](https://github.com/JihunDev/awesome-developer-community-in-korea/pull/1) in [JihunDev/awesome-developer-community-in-korea](https://github.com/JihunDev/awesome-developer-community-in-korea)
+5. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
