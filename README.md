@@ -69,11 +69,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac)
-2. ⭐ Starred [ollama/ollama](https://github.com/ollama/ollama)
-3. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
-4. 🔱 Forked [JihunDev/jekyll-theme-chirpy](https://github.com/JihunDev/jekyll-theme-chirpy) from [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-5. 🎉 Merged PR [#1](https://github.com/JihunDev/awesome-developer-community-in-korea/pull/1) in [JihunDev/awesome-developer-community-in-korea](https://github.com/JihunDev/awesome-developer-community-in-korea)
+1. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
+2. ⭐ Starred [tier4/AWSIM](https://github.com/tier4/AWSIM)
+3. ⭐ Starred [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac)
+4. ⭐ Starred [ollama/ollama](https://github.com/ollama/ollama)
+5. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
