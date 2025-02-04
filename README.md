@@ -69,9 +69,9 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
-2. ⭐ Starred [tier4/AWSIM](https://github.com/tier4/AWSIM)
-3. ⭐ Starred [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac)
+1. ⭐ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+2. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
+3. ⭐ Starred [tier4/AWSIM](https://github.com/tier4/AWSIM)
 4. ⭐ Starred [ollama/ollama](https://github.com/ollama/ollama)
 5. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
 <!--RECENT_ACTIVITY:end-->
