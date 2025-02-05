@@ -69,11 +69,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-2. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
-3. ⭐ Starred [tier4/AWSIM](https://github.com/tier4/AWSIM)
-4. ⭐ Starred [ollama/ollama](https://github.com/ollama/ollama)
-5. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
+1. ⭐ Starred [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
+2. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
+3. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+4. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+5. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
