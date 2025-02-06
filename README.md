@@ -69,11 +69,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
-2. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
-3. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
-4. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
-5. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+1. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+2. ⭐ Starred [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
+3. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
+4. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+5. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
