@@ -69,11 +69,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-2. ⭐ Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
-3. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
-4. ⭐ Starred [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
-5. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
+1. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)
+2. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+3. ⭐ Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+4. ⭐ Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+5. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
