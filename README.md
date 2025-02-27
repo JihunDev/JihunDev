@@ -69,11 +69,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apache/airflow](https://github.com/apache/airflow)
-2. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)
-3. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-4. ⭐ Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-5. ⭐ Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+1. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+2. ⭐ Starred [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+3. ⭐ Starred [apache/airflow](https://github.com/apache/airflow)
+4. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)
+5. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
