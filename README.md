@@ -69,11 +69,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
-2. ⭐ Starred [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
-3. ⭐ Starred [apache/airflow](https://github.com/apache/airflow)
-4. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)
-5. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+1. ⭐ Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+2. ⭐ Starred [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
+3. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+4. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+5. ⭐ Starred [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
