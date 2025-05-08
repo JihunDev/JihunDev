@@ -7,6 +7,7 @@
 - 😄 Pronouns: Embedded Linux, Firmware, Autonomus Driving
 - 📝 I regularly write articles on [jihundev.github.io](https://jihundev.github.io/)
 - 📫 How to contact me by e-mail
+- 📫 Apply for [Coffee Chat](https://calendly.com/jihun-dev/30min?share_attribution=expiring_link)
 
 <details>
   <summary>My skills include</summary>
