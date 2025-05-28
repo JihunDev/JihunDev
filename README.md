@@ -70,10 +70,10 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-2. ⭐ Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-3. ⭐ Starred [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
-4. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+1. ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
+2. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
+3. ⭐ Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+4. ⭐ Starred [nextcloud/server](https://github.com/nextcloud/server)
 5. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
 <!--RECENT_ACTIVITY:end-->
   
