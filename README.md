@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
-2. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
-3. ⭐ Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
-4. ⭐ Starred [nextcloud/server](https://github.com/nextcloud/server)
-5. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+1. ⭐ Starred [actions/starter-workflows](https://github.com/actions/starter-workflows)
+2. ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
+3. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
+4. ⭐ Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+5. ⭐ Starred [nextcloud/server](https://github.com/nextcloud/server)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
