@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [actions/starter-workflows](https://github.com/actions/starter-workflows)
-2. ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
-3. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
-4. ⭐ Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
-5. ⭐ Starred [nextcloud/server](https://github.com/nextcloud/server)
+1. ⭐ Starred [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+2. ⭐ Starred [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+3. ⭐ Starred [actions/starter-workflows](https://github.com/actions/starter-workflows)
+4. ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
+5. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
