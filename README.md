@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Archery-Lab/.github](https://github.com/Archery-Lab/.github)
-2. 🎉 Merged PR [#1](https://github.com/Archery-Lab/demo-repository/pull/1) in [Archery-Lab/demo-repository](https://github.com/Archery-Lab/demo-repository)
-3. 💪 Opened PR [#1](https://github.com/Archery-Lab/demo-repository/pull/1) in [Archery-Lab/demo-repository](https://github.com/Archery-Lab/demo-repository)
-4. ⭐ Starred [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
-5. ⭐ Starred [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+1. ⭐ Starred [github/github-mcp-server](https://github.com/github/github-mcp-server)
+2. 📔 Created new repository [Archery-Lab/.github](https://github.com/Archery-Lab/.github)
+3. 🎉 Merged PR [#1](https://github.com/Archery-Lab/demo-repository/pull/1) in [Archery-Lab/demo-repository](https://github.com/Archery-Lab/demo-repository)
+4. 💪 Opened PR [#1](https://github.com/Archery-Lab/demo-repository/pull/1) in [Archery-Lab/demo-repository](https://github.com/Archery-Lab/demo-repository)
+5. ⭐ Starred [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
