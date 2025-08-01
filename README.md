@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [github/github-mcp-server](https://github.com/github/github-mcp-server)
-2. 📔 Created new repository [Archery-Lab/.github](https://github.com/Archery-Lab/.github)
-3. 🎉 Merged PR [#1](https://github.com/Archery-Lab/demo-repository/pull/1) in [Archery-Lab/demo-repository](https://github.com/Archery-Lab/demo-repository)
-4. 💪 Opened PR [#1](https://github.com/Archery-Lab/demo-repository/pull/1) in [Archery-Lab/demo-repository](https://github.com/Archery-Lab/demo-repository)
-5. ⭐ Starred [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+1. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)
+2. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+3. ⭐ Starred [wshobson/agents](https://github.com/wshobson/agents)
+4. ⭐ Starred [9001/copyparty](https://github.com/9001/copyparty)
+5. ⭐ Starred [github/github-mcp-server](https://github.com/github/github-mcp-server)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
