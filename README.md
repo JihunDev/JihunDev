@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)
-2. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
-3. ⭐ Starred [wshobson/agents](https://github.com/wshobson/agents)
-4. ⭐ Starred [9001/copyparty](https://github.com/9001/copyparty)
-5. ⭐ Starred [github/github-mcp-server](https://github.com/github/github-mcp-server)
+1. ⭐ Starred [RSSNext/Folo](https://github.com/RSSNext/Folo)
+2. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)
+3. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+4. ⭐ Starred [wshobson/agents](https://github.com/wshobson/agents)
+5. ⭐ Starred [9001/copyparty](https://github.com/9001/copyparty)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
