@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RSSNext/Folo](https://github.com/RSSNext/Folo)
-2. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)
-3. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
-4. ⭐ Starred [wshobson/agents](https://github.com/wshobson/agents)
-5. ⭐ Starred [9001/copyparty](https://github.com/9001/copyparty)
+1. ⭐ Starred [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)
+2. ⭐ Starred [RSSNext/Folo](https://github.com/RSSNext/Folo)
+3. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)
+4. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+5. ⭐ Starred [wshobson/agents](https://github.com/wshobson/agents)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
