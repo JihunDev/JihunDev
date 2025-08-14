@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
-2. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)
-3. ⭐ Starred [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)
-4. ⭐ Starred [RSSNext/Folo](https://github.com/RSSNext/Folo)
-5. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)
+1. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. ⭐ Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+3. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)
+4. ⭐ Starred [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)
+5. ⭐ Starred [RSSNext/Folo](https://github.com/RSSNext/Folo)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
