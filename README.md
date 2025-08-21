@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coder/coder](https://github.com/coder/coder)
-2. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)
-3. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
-4. ⭐ Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
-5. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)
+1. ⭐ Starred [wagtail/wagtail](https://github.com/wagtail/wagtail)
+2. ⭐ Starred [coder/coder](https://github.com/coder/coder)
+3. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)
+4. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
+5. ⭐ Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
