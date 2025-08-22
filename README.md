@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wagtail/wagtail](https://github.com/wagtail/wagtail)
-2. ⭐ Starred [coder/coder](https://github.com/coder/coder)
-3. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)
-4. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
-5. ⭐ Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
+1. ⭐ Starred [openai/agents.md](https://github.com/openai/agents.md)
+2. ⭐ Starred [getzep/graphiti](https://github.com/getzep/graphiti)
+3. ⭐ Starred [oz123/awesome-c](https://github.com/oz123/awesome-c)
+4. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+5. ⭐ Starred [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
