@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
-2. ⭐ Starred [openai/agents.md](https://github.com/openai/agents.md)
-3. ⭐ Starred [getzep/graphiti](https://github.com/getzep/graphiti)
-4. ⭐ Starred [oz123/awesome-c](https://github.com/oz123/awesome-c)
-5. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+1. ⭐ Starred [Koomook/data-go-mcp-servers](https://github.com/Koomook/data-go-mcp-servers)
+2. ⭐ Starred [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
+3. ⭐ Starred [openai/agents.md](https://github.com/openai/agents.md)
+4. ⭐ Starred [getzep/graphiti](https://github.com/getzep/graphiti)
+5. ⭐ Starred [oz123/awesome-c](https://github.com/oz123/awesome-c)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
