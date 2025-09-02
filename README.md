@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [activepieces/activepieces](https://github.com/activepieces/activepieces)
-2. ⭐ Starred [Koomook/data-go-mcp-servers](https://github.com/Koomook/data-go-mcp-servers)
-3. ⭐ Starred [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
-4. ⭐ Starred [openai/agents.md](https://github.com/openai/agents.md)
-5. ⭐ Starred [getzep/graphiti](https://github.com/getzep/graphiti)
+1. ⭐ Starred [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
+2. ⭐ Starred [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)
+3. ⭐ Starred [nats-io/nats-server](https://github.com/nats-io/nats-server)
+4. ⭐ Starred [chroma-core/chroma](https://github.com/chroma-core/chroma)
+5. ⭐ Starred [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
