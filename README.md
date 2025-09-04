@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
-2. ⭐ Starred [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)
-3. ⭐ Starred [nats-io/nats-server](https://github.com/nats-io/nats-server)
-4. ⭐ Starred [chroma-core/chroma](https://github.com/chroma-core/chroma)
-5. ⭐ Starred [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
+1. ⭐ Starred [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+2. ⭐ Starred [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
+3. ⭐ Starred [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)
+4. ⭐ Starred [nats-io/nats-server](https://github.com/nats-io/nats-server)
+5. ⭐ Starred [chroma-core/chroma](https://github.com/chroma-core/chroma)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
