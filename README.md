@@ -70,9 +70,9 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-2. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-3. ⭐ Starred [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+1. ⭐ Starred [Tinker-Twins/AutoDRIVE-Autoware](https://github.com/Tinker-Twins/AutoDRIVE-Autoware)
+2. ⭐ Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+3. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
 4. ⭐ Starred [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
 5. ⭐ Starred [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)
 <!--RECENT_ACTIVITY:end-->
