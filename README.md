@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Tinker-Twins/AutoDRIVE-Autoware](https://github.com/Tinker-Twins/AutoDRIVE-Autoware)
-2. ⭐ Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-3. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-4. ⭐ Starred [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
-5. ⭐ Starred [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device)
+1. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+2. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)
+3. ⭐ Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+4. ⭐ Starred [Tinker-Twins/AutoDRIVE-Autoware](https://github.com/Tinker-Twins/AutoDRIVE-Autoware)
+5. ⭐ Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
