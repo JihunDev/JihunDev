@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
-2. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
-3. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)
-4. ⭐ Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-5. ⭐ Starred [Tinker-Twins/AutoDRIVE-Autoware](https://github.com/Tinker-Twins/AutoDRIVE-Autoware)
+1. ⭐ Starred [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
+2. ⭐ Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+3. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+4. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)
+5. ⭐ Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
