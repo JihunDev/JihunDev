@@ -70,11 +70,11 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-2. ⭐ Starred [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
-3. ⭐ Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
-4. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
-5. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)
+1. ⭐ Starred [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
+2. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+3. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+4. ⭐ Starred [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
+5. ⭐ Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
