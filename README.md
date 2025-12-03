@@ -70,7 +70,7 @@
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GibsonAI/Memori](https://github.com/GibsonAI/Memori)
+1. ⭐ Starred [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)
 2. ⭐ Starred [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat)
 3. ⭐ Starred [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
 4. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
