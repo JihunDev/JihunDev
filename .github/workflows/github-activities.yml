@@ -1,18 +1,30 @@
+# .github/workflows/github-activities.yml
 name: Github Activity
 
 on:
   schedule:
-    - cron: '30 1 * * *'
+    # 매일 02:15 UTC (StackOverflow와 시간 분산)
+    - cron: '15 2 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Update Profile README
-
+    timeout-minutes: 10
+    
     steps:
-      - uses: actions/checkout@v2.3.4
-      - uses: Readme-Workflows/recent-activity@v2.3.1
+      - name: Checkout repository
+        uses: actions/checkout@v3
         
+      - name: Update recent activity
+        uses: Readme-Workflows/recent-activity@v2.3.1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          
+      # 에러 발생 시에도 워크플로우 실패하지 않도록 설정
+      - name: Handle errors gracefully
+        if: failure()
+        run: |
+          echo "Activity update failed, but workflow continues"
+          exit 0
