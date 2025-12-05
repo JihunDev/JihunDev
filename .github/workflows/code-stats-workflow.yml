@@ -1,25 +1,35 @@
+# .github/workflows/code-stats-workflow.yml
 name: CodeStats
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    # 매일 00:30 UTC (다른 워크플로우와 시간 분산)
+    - cron: '30 0 * * *'
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update CodeStats in README
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - run: ls -lisah
-      - run: ls -lisa /home/runner/work/JihunDev/JihunDev
-      - name: Update readme
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      # 불필요한 디버그 명령어 제거
+      - name: Update CodeStats
         uses: vergissberlin/codestats-readme@master
         with:
           CODESTATS_USERNAME: jihundev
           SHOW_TITLE: true
           SHOW_LINK: true
-          DEBUG: true
+          DEBUG: false  # true → false (로그 출력 최소화)
           README_FILE: /home/runner/work/JihunDev/JihunDev/README.md
+          
+      # 변경사항 확인 및 커밋
+      - name: Commit changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff --quiet || (git add -A && git commit -m "📊 Update CodeStats [skip ci]" && git push)
