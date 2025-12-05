@@ -2,12 +2,35 @@
 
 <h3 align="center">A passionate Embedded developer from Korea</h3>
 
-- 🌱 I’m currently learning on Software engineering, Rust
-- 💬 Ask me about C, C++, Python and Rust
-- 😄 Pronouns: Embedded Linux, Firmware, Autonomus Driving
-- 📝 I regularly write articles on [jihundev.github.io](https://jihundev.github.io/)
-- 📫 How to contact me by e-mail
-- 📫 Apply for [Coffee Chat](https://calendly.com/jihun-dev/30min?share_attribution=expiring_link)
+<p align="center">
+  <a href="mailto:Jihun.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/jihun-kim">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://jihundev.github.io">
+    <img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://calendly.com/jihun-dev/30min">
+    <img src="https://img.shields.io/badge/Coffee_Chat-00A98F?style=for-the-badge&logo=calendly&logoColor=white" alt="Coffee Chat" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+```yaml
+Current Role: R&D Engineer (Embedded Systems & Autonomous Driving)
+Focus Areas: ["STM32 Firmware", "FreeRTOS", "Autonomous", "Robotics"]
+Tech Stack: ["C/C++", "Rust", "Python", "Embedded Linux"]
+Learning: "Software Engineering Practices, Advanced Rust"
+```
+
+- 🚀 Working on **autonomous driving systems**
+- 📝 Regular technical writer at [jihundev.github.io](https://jihundev.github.io/)
+- 🎯 Expertise in **embedded firmware development** and **real-time systems**
+- 💬 Ask me about **STM32, FreeRTOS, RTOS implementation, Embedded C/C++**
 
 <details>
   <summary>My skills include</summary>
