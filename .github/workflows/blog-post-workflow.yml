@@ -1,17 +1,51 @@
+# .github/workflows/blog-post-workflow.yml
 name: Blog Activity
+
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # 6시간마다 실행 (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
   workflow_dispatch:
+  # 블로그 업데이트 시 자동 실행 (선택적)
+  repository_dispatch:
+    types: [blog-updated]
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with Blog Posts
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
-      - uses: actions/checkout@v2
-      - uses: JihunDev/blog-post-workflow@master
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Cache blog feed
+        uses: actions/cache@v3
+        with:
+          path: .blog-cache
+          key: blog-feed-${{ github.run_id }}
+          restore-keys: |
+            blog-feed-
+            
+      - name: Fetch blog posts
+        uses: JihunDev/blog-post-workflow@master
         with:
           max_post_count: "4"
           feed_list: "https://jihundev.github.io/feed.xml"
+          commit_message: "📝 Update blog posts"
+          
+      # 변경사항이 있을 때만 커밋
+      - name: Check for changes
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+          
+      - name: Commit and push if changed
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git commit -m "📝 Update blog posts [skip ci]" || exit 0
+          git push
