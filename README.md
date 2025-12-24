@@ -93,9 +93,9 @@ Learning: "Software Engineering Practices, Advanced Rust"
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv)
-2. ⭐ Starred [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)
-3. ⭐ Starred [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat)
+1. ⭐ Starred [simstudioai/sim](https://github.com/simstudioai/sim)
+2. ⭐ Starred [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv)
+3. ⭐ Starred [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)
 4. ⭐ Starred [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
 5. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 <!--RECENT_ACTIVITY:end-->
