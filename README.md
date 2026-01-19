@@ -93,10 +93,10 @@ Learning: "Software Engineering Practices, Advanced Rust"
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [team-attention/plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives)
-2. ⭐ Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
-3. ⭐ Starred [simstudioai/sim](https://github.com/simstudioai/sim)
-4. ⭐ Starred [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv)
+1. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+2. ⭐ Starred [team-attention/plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives)
+3. ⭐ Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+4. ⭐ Starred [simstudioai/sim](https://github.com/simstudioai/sim)
 5. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 <!--RECENT_ACTIVITY:end-->
   
