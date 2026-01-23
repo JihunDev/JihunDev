@@ -93,11 +93,11 @@ Learning: "Software Engineering Practices, Advanced Rust"
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [j1king/grovr](https://github.com/j1king/grovr)
-2. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-3. ⭐ Starred [team-attention/plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives)
-4. ⭐ Starred [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
-5. ⭐ Starred [simstudioai/sim](https://github.com/simstudioai/sim)
+1. ⭐ Starred [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
+2. ⭐ Starred [revfactory/claude-code-master](https://github.com/revfactory/claude-code-master)
+3. ⭐ Starred [block/goose](https://github.com/block/goose)
+4. ⭐ Starred [j1king/grovr](https://github.com/j1king/grovr)
+5. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
