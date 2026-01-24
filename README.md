@@ -93,11 +93,11 @@ Learning: "Software Engineering Practices, Advanced Rust"
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
-2. ⭐ Starred [revfactory/claude-code-master](https://github.com/revfactory/claude-code-master)
-3. ⭐ Starred [block/goose](https://github.com/block/goose)
-4. ⭐ Starred [j1king/grovr](https://github.com/j1king/grovr)
-5. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+1. ⭐ Starred [gemini-cli-extensions/stitch](https://github.com/gemini-cli-extensions/stitch)
+2. ⭐ Starred [jonas/tig](https://github.com/jonas/tig)
+3. ⭐ Starred [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
+4. ⭐ Starred [revfactory/claude-code-master](https://github.com/revfactory/claude-code-master)
+5. ⭐ Starred [block/goose](https://github.com/block/goose)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
