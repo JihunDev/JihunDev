@@ -93,11 +93,11 @@ Learning: "Software Engineering Practices, Advanced Rust"
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gemini-cli-extensions/stitch](https://github.com/gemini-cli-extensions/stitch)
-2. ⭐ Starred [jonas/tig](https://github.com/jonas/tig)
-3. ⭐ Starred [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
-4. ⭐ Starred [revfactory/claude-code-master](https://github.com/revfactory/claude-code-master)
-5. ⭐ Starred [block/goose](https://github.com/block/goose)
+1. ⭐ Starred [team-attention/hoyeon](https://github.com/team-attention/hoyeon)
+2. ⭐ Starred [fragglet/c-algorithms](https://github.com/fragglet/c-algorithms)
+3. ⭐ Starred [gemini-cli-extensions/stitch](https://github.com/gemini-cli-extensions/stitch)
+4. ⭐ Starred [jonas/tig](https://github.com/jonas/tig)
+5. ⭐ Starred [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
