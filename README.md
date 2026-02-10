@@ -93,11 +93,11 @@ Learning: "Software Engineering Practices, Advanced Rust"
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
-2. ⭐ Starred [subinium/awesome-claude-code](https://github.com/subinium/awesome-claude-code)
-3. ⭐ Starred [team-attention/nobs-whisper](https://github.com/team-attention/nobs-whisper)
-4. ⭐ Starred [team-attention/hoyeon](https://github.com/team-attention/hoyeon)
-5. ⭐ Starred [fragglet/c-algorithms](https://github.com/fragglet/c-algorithms)
+1. ⭐ Starred [zep-us/zeude](https://github.com/zep-us/zeude)
+2. ⭐ Starred [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
+3. ⭐ Starred [subinium/awesome-claude-code](https://github.com/subinium/awesome-claude-code)
+4. ⭐ Starred [team-attention/nobs-whisper](https://github.com/team-attention/nobs-whisper)
+5. ⭐ Starred [team-attention/hoyeon](https://github.com/team-attention/hoyeon)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
