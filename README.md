@@ -93,11 +93,11 @@ Learning: "Software Engineering Practices, Advanced Rust"
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)
-2. ⭐ Starred [zep-us/zeude](https://github.com/zep-us/zeude)
-3. ⭐ Starred [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
-4. ⭐ Starred [subinium/awesome-claude-code](https://github.com/subinium/awesome-claude-code)
-5. ⭐ Starred [team-attention/nobs-whisper](https://github.com/team-attention/nobs-whisper)
+1. ⭐ Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
+2. ⭐ Starred [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
+3. ⭐ Starred [kimsanguine/AI_PM](https://github.com/kimsanguine/AI_PM)
+4. ⭐ Starred [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)
+5. ⭐ Starred [zep-us/zeude](https://github.com/zep-us/zeude)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
