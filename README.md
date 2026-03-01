@@ -93,11 +93,11 @@ Learning: "Software Engineering Practices, Advanced Rust"
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
-2. ⭐ Starred [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
-3. ⭐ Starred [kimsanguine/AI_PM](https://github.com/kimsanguine/AI_PM)
-4. ⭐ Starred [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)
-5. ⭐ Starred [zep-us/zeude](https://github.com/zep-us/zeude)
+1. ⭐ Starred [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+2. ⭐ Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
+3. ⭐ Starred [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
+4. ⭐ Starred [kimsanguine/AI_PM](https://github.com/kimsanguine/AI_PM)
+5. ⭐ Starred [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
