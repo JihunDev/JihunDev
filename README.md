@@ -97,7 +97,7 @@ Learning: "Software Engineering Practices, Advanced Rust"
 2. ⭐ Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
 3. ⭐ Starred [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
 4. ⭐ Starred [kimsanguine/AI_PM](https://github.com/kimsanguine/AI_PM)
-5. ⭐ Starred [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)
+5. ⭐ Starred [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
