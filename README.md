@@ -21,16 +21,20 @@
 
 ### 👨‍💻 About Me
 ```yaml
-Current Role: R&D Engineer (Embedded Systems & Autonomous Driving)
-Focus Areas: ["STM32 Firmware", "FreeRTOS", "Autonomous", "Robotics"]
+
+# whoami
+name        : Jihun Kim (김지훈)
+role        : Senior R&D Engineer · Team Lead
+company     : SkyAutoNet Co., Ltd. — Seoul, Korea
+domain      : Embedded Systems / Autonomous Driving
+
+# interests
+Focus Areas : ["Real-time Systems", "Sensor Fusion", "Control Algorithms", "SLAM"]
 Tech Stack: ["C/C++", "Rust", "Python", "Embedded Linux"]
 Learning: "Software Engineering Practices, Advanced Rust"
-```
+Side Hustle : "Technical book reviewer (Gilbut, Hanbit, J-Pub · 13+ books)"
 
-- 🚀 Working on **autonomous driving systems**
-- 📝 Regular technical writer at [jihundev.github.io](https://jihundev.github.io/)
-- 🎯 Expertise in **embedded firmware development** and **real-time systems**
-- 💬 Ask me about **STM32, FreeRTOS, RTOS implementation, Embedded C/C++**
+```
 
 <details>
   <summary>My skills include</summary>
@@ -70,15 +74,21 @@ Learning: "Software Engineering Practices, Advanced Rust"
 
 <details>
   <summary>CodeKata Activity</summary>
-  <br>
-  <div align=center>
-    
-  ### Codewars
-  ![Codewars](https://github.r2v.ch/codewars?user=JihunDev&top_languages=true)
-  
-  ### LeetCode
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/JihunDev?ext=heatmap)
-  
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+        CodeWar
+          
+![Codewars](https://github.r2v.ch/codewars?user=JihunDev&top_languages=true&theme=dark)
+        </td>
+        <td align="center">
+        LeetCode
+
+![LeetCode](https://leetcard.jacoblin.cool/JihunDev?theme=dark&ext=heatmap&border=0)
+        </td>
+      </tr>
+    </table>
   </div>
 </details>
 
