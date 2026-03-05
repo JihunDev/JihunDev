@@ -123,11 +123,4 @@ Learning: "Software Engineering Practices, Advanced Rust"
 
 </details>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JihunDev&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/JihunDev?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
 ![waving](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
