@@ -93,11 +93,11 @@ Learning: "Software Engineering Practices, Advanced Rust"
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
-2. ⭐ Starred [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
-3. ⭐ Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
-4. ⭐ Starred [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
-5. ⭐ Starred [kimsanguine/AI_PM](https://github.com/kimsanguine/AI_PM)
+1. ⭐ Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+2. ⭐ Starred [jacob-bd/notebooklm-mcp-cli](https://github.com/jacob-bd/notebooklm-mcp-cli)
+3. ⭐ Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+4. ⭐ Starred [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+5. ⭐ Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
