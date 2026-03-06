@@ -27,21 +27,18 @@ name        : Jihun Kim (김지훈)
 role        : Senior R&D Engineer · Team Lead
 company     : SkyAutoNet Co., Ltd. — Seoul, Korea
 domain      : Embedded Systems / Autonomous Driving
+Tech Stack  : C/C++, Rust, Python, Embedded Linux
 
-# interests
-Focus Areas : ["Real-time Systems", "Sensor Fusion", "Control Algorithms", "SLAM"]
-Tech Stack: ["C/C++", "Rust", "Python", "Embedded Linux"]
-Learning: "Software Engineering Practices, Advanced Rust"
-Side Hustle : "Technical book reviewer (Gilbut, Hanbit, J-Pub · 13+ books)"
+# growth
+learning    : ["Advanced Rust", "Software Engineering Practices"]
+interests   : ["Sensor Fusion", "MPC Control"]
 
 ```
 
 <details>
-  <summary>My skills include</summary>
+  <summary>Tech Stack</summary>
   <br>
   <div align="center">
-
-  ## My Skills
 
   <table>
     <tr>
