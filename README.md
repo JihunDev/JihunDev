@@ -23,7 +23,7 @@
 ```yaml
 
 # whoami
-name        : Jihun Kim (김지훈)
+name        : Jihun Kim
 role        : Senior R&D Engineer · Team Lead
 company     : SkyAutoNet Co., Ltd. — Seoul, Korea
 domain      : Embedded Systems / Autonomous Driving
