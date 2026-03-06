@@ -5,13 +5,13 @@
 <p align="center">
   <a href="mailto:Jihun.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  </a>&nbsp;
   <a href="https://linkedin.com/in/jihun-kim">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;
   <a href="https://jihundev.github.io">
     <img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
-  </a>
+  </a>&nbsp;
   <a href="https://calendly.com/jihun-dev/30min">
     <img src="https://img.shields.io/badge/Coffee_Chat-00A98F?style=for-the-badge&logo=calendly&logoColor=white" alt="Coffee Chat" />
   </a>
