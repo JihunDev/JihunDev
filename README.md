@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
-2. ⭐ Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-3. ⭐ Starred [jacob-bd/notebooklm-mcp-cli](https://github.com/jacob-bd/notebooklm-mcp-cli)
-4. ⭐ Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
-5. ⭐ Starred [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+1. ⭐ Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
+2. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+3. ⭐ Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+4. ⭐ Starred [jacob-bd/notebooklm-mcp-cli](https://github.com/jacob-bd/notebooklm-mcp-cli)
+5. ⭐ Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
