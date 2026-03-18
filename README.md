@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
-2. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
-3. ⭐ Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-4. ⭐ Starred [jacob-bd/notebooklm-mcp-cli](https://github.com/jacob-bd/notebooklm-mcp-cli)
-5. ⭐ Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+1. ⭐ Starred [CuriousPaul/product-psychology-for-vibe-coding](https://github.com/CuriousPaul/product-psychology-for-vibe-coding)
+2. ⭐ Starred [andrewyng/context-hub](https://github.com/andrewyng/context-hub)
+3. ⭐ Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
+4. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+5. ⭐ Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
