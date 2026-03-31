@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [YishenTu/claudian](https://github.com/YishenTu/claudian)
-2. ⭐ Starred [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad)
-3. ⭐ Starred [CuriousPaul/product-psychology-for-vibe-coding](https://github.com/CuriousPaul/product-psychology-for-vibe-coding)
-4. ⭐ Starred [andrewyng/context-hub](https://github.com/andrewyng/context-hub)
-5. ⭐ Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
+1. ⭐ Starred [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)
+2. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+3. ⭐ Starred [YishenTu/claudian](https://github.com/YishenTu/claudian)
+4. ⭐ Starred [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad)
+5. ⭐ Starred [CuriousPaul/product-psychology-for-vibe-coding](https://github.com/CuriousPaul/product-psychology-for-vibe-coding)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
