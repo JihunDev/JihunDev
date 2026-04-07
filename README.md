@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp)
-2. ⭐ Starred [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)
-3. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-4. ⭐ Starred [YishenTu/claudian](https://github.com/YishenTu/claudian)
-5. ⭐ Starred [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad)
+1. ⭐ Starred [oy-snowwwww/claude-agent-viz](https://github.com/oy-snowwwww/claude-agent-viz)
+2. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
+3. ⭐ Starred [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp)
+4. ⭐ Starred [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)
+5. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
