@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects)
-2. ⭐ Starred [oy-snowwwww/claude-agent-viz](https://github.com/oy-snowwwww/claude-agent-viz)
-3. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
-4. ⭐ Starred [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp)
-5. ⭐ Starred [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)
+1. ⭐ Starred [treesoop/whisper_transcription](https://github.com/treesoop/whisper_transcription)
+2. ⭐ Starred [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects)
+3. ⭐ Starred [oy-snowwwww/claude-agent-viz](https://github.com/oy-snowwwww/claude-agent-viz)
+4. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
+5. ⭐ Starred [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
