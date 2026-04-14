@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)
-2. ⭐ Starred [treesoop/whisper_transcription](https://github.com/treesoop/whisper_transcription)
-3. ⭐ Starred [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects)
-4. ⭐ Starred [JeongInjin/claude-agent-viz](https://github.com/JeongInjin/claude-agent-viz)
-5. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
+1. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+2. ⭐ Starred [amd/gaia](https://github.com/amd/gaia)
+3. ⭐ Starred [halfwhey/claudraband](https://github.com/halfwhey/claudraband)
+4. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)
+5. ⭐ Starred [treesoop/whisper_transcription](https://github.com/treesoop/whisper_transcription)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
