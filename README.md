@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)
-2. ⭐ Starred [amd/gaia](https://github.com/amd/gaia)
-3. ⭐ Starred [halfwhey/claudraband](https://github.com/halfwhey/claudraband)
-4. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)
-5. ⭐ Starred [treesoop/whisper_transcription](https://github.com/treesoop/whisper_transcription)
+1. ⭐ Starred [peteromallet/desloppify](https://github.com/peteromallet/desloppify)
+2. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+3. ⭐ Starred [Developer-Y/math-science-video-lectures](https://github.com/Developer-Y/math-science-video-lectures)
+4. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+5. ⭐ Starred [amd/gaia](https://github.com/amd/gaia)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
