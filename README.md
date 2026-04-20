@@ -111,7 +111,7 @@ interests   : ["Sensor Fusion", "MPC Control"]
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [edwardkim/rhwp](https://github.com/edwardkim/rhwp)
 2. ⭐ Starred [peteromallet/desloppify](https://github.com/peteromallet/desloppify)
-3. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+3. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 4. ⭐ Starred [Developer-Y/math-science-video-lectures](https://github.com/Developer-Y/math-science-video-lectures)
 5. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)
 <!--RECENT_ACTIVITY:end-->
