@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [langfuse/langfuse](https://github.com/langfuse/langfuse)
-2. ⭐ Starred [edwardkim/rhwp](https://github.com/edwardkim/rhwp)
-3. ⭐ Starred [peteromallet/desloppify](https://github.com/peteromallet/desloppify)
-4. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
-5. ⭐ Starred [Developer-Y/math-science-video-lectures](https://github.com/Developer-Y/math-science-video-lectures)
+1. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. ⭐ Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+3. ⭐ Starred [langfuse/langfuse](https://github.com/langfuse/langfuse)
+4. ⭐ Starred [edwardkim/rhwp](https://github.com/edwardkim/rhwp)
+5. ⭐ Starred [peteromallet/desloppify](https://github.com/peteromallet/desloppify)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
