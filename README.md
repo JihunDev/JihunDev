@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-2. ⭐ Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
-3. ⭐ Starred [langfuse/langfuse](https://github.com/langfuse/langfuse)
-4. ⭐ Starred [edwardkim/rhwp](https://github.com/edwardkim/rhwp)
-5. ⭐ Starred [peteromallet/desloppify](https://github.com/peteromallet/desloppify)
+1. ⭐ Starred [golbin/hop](https://github.com/golbin/hop)
+2. ⭐ Starred [bytonylee/side-scraper](https://github.com/bytonylee/side-scraper)
+3. ⭐ Starred [zenajo/hr-legal-review](https://github.com/zenajo/hr-legal-review)
+4. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
+5. ⭐ Starred [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
