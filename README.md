@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [golbin/hop](https://github.com/golbin/hop)
-2. ⭐ Starred [bytonylee/side-scraper](https://github.com/bytonylee/side-scraper)
-3. ⭐ Starred [zenajo/hr-legal-review](https://github.com/zenajo/hr-legal-review)
-4. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
-5. ⭐ Starred [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+1. ⭐ Starred [syncable-dev/memtrace-public](https://github.com/syncable-dev/memtrace-public)
+2. ⭐ Starred [aattaran/deepclaude](https://github.com/aattaran/deepclaude)
+3. ⭐ Starred [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+4. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
+5. ⭐ Starred [browserbase/skills](https://github.com/browserbase/skills)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
