@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [syncable-dev/memtrace-public](https://github.com/syncable-dev/memtrace-public)
-2. ⭐ Starred [aattaran/deepclaude](https://github.com/aattaran/deepclaude)
-3. ⭐ Starred [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
-4. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
-5. ⭐ Starred [browserbase/skills](https://github.com/browserbase/skills)
+1. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+2. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+3. ⭐ Starred [syncable-dev/memtrace-public](https://github.com/syncable-dev/memtrace-public)
+4. ⭐ Starred [aattaran/deepclaude](https://github.com/aattaran/deepclaude)
+5. ⭐ Starred [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
