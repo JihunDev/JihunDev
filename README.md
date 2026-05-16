@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill)
-2. ⭐ Starred [JakubVojvoda/design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp)
-3. ⭐ Starred [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
-4. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
-5. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+1. ⭐ Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
+2. ⭐ Starred [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill)
+3. ⭐ Starred [JakubVojvoda/design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp)
+4. ⭐ Starred [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
+5. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
