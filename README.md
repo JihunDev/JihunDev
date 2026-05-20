@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-2. ⭐ Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
-3. ⭐ Starred [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill)
-4. ⭐ Starred [JakubVojvoda/design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp)
-5. ⭐ Starred [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
+1. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+2. ⭐ Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+3. ⭐ Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+4. ⭐ Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
+5. ⭐ Starred [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
