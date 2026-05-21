@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-2. ⭐ Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-3. ⭐ Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-4. ⭐ Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
-5. ⭐ Starred [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill)
+1. ⭐ Starred [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+2. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+3. ⭐ Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+4. ⭐ Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+5. ⭐ Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
