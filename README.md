@@ -88,15 +88,17 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <summary>CodeKata Activity</summary>
   <div align="center">
     <table>
+       <tr>
+        <th>CodeWar</th>
+        <th>LeetCode</th>
+      </tr>
       <tr>
         <td align="center">
-        CodeWar
           
 ![Codewars](https://github.r2v.ch/codewars?user=JihunDev&top_languages=true&theme=dark)
         </td>
         <td align="center">
-        LeetCode
-
+        
 ![LeetCode](https://leetcard.jacoblin.cool/JihunDev?theme=dark&ext=heatmap&border=0)
         </td>
       </tr>
