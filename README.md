@@ -109,11 +109,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-2. ⭐ Starred [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-3. ⭐ Starred [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
-4. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-5. ⭐ Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+1. ⭐ Starred [whchoi98/claude-code-workshop](https://github.com/whchoi98/claude-code-workshop)
+2. ⭐ Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+3. ⭐ Starred [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+4. ⭐ Starred [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+5. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
