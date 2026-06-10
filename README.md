@@ -111,11 +111,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
-2. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)
-3. ⭐ Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-4. ⭐ Starred [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)
-5. ⭐ Starred [whchoi98/claude-code-workshop](https://github.com/whchoi98/claude-code-workshop)
+1. ⭐ Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+2. ⭐ Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+3. ⭐ Starred [google/skills](https://github.com/google/skills)
+4. ⭐ Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+5. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
