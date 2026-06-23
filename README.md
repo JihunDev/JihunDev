@@ -111,7 +111,7 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)
+1. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
 2. ⭐ Starred [garrytan/gbrain](https://github.com/garrytan/gbrain)
 3. ⭐ Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 4. ⭐ Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
