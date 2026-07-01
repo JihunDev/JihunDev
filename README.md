@@ -111,11 +111,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
-2. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
-3. ⭐ Starred [garrytan/gbrain](https://github.com/garrytan/gbrain)
-4. ⭐ Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
-5. ⭐ Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+1. ⭐ Starred [commaai/openpilot](https://github.com/commaai/openpilot)
+2. ⭐ Starred [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+3. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
+4. ⭐ Starred [garrytan/gbrain](https://github.com/garrytan/gbrain)
+5. ⭐ Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
