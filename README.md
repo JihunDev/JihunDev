@@ -111,7 +111,7 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fivetaku/insane-search](https://github.com/fivetaku/insane-search)
+1. ⭐ Starred [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
 2. ⭐ Starred [commaai/openpilot](https://github.com/commaai/openpilot)
 3. ⭐ Starred [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 4. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
