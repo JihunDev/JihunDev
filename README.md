@@ -111,10 +111,10 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
-2. ⭐ Starred [commaai/openpilot](https://github.com/commaai/openpilot)
-3. ⭐ Starred [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
-4. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
+1. ⭐ Starred [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
+2. ⭐ Starred [NomaDamas/dupey](https://github.com/NomaDamas/dupey)
+3. ⭐ Starred [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework)
+4. ⭐ Starred [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
 5. ⭐ Starred [garrytan/gbrain](https://github.com/garrytan/gbrain)
 <!--RECENT_ACTIVITY:end-->
   
