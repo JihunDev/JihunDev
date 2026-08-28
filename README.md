@@ -111,11 +111,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant)
-2. ⭐ Starred [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
-3. ⭐ Starred [NomaDamas/dupey](https://github.com/NomaDamas/dupey)
-4. ⭐ Starred [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework)
-5. ⭐ Starred [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
+1. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+2. ⭐ Starred [trailhq/Graft](https://github.com/trailhq/Graft)
+3. ⭐ Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+4. ⭐ Starred [snflkd/fluent-korean](https://github.com/snflkd/fluent-korean)
+5. ⭐ Starred [modakbul-gongbang/damso](https://github.com/modakbul-gongbang/damso)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
