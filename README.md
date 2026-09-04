@@ -111,11 +111,11 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-2. ⭐ Starred [trailhq/Graft](https://github.com/trailhq/Graft)
-3. ⭐ Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
-4. ⭐ Starred [snflkd/fluent-korean](https://github.com/snflkd/fluent-korean)
-5. ⭐ Starred [modakbul-gongbang/damso](https://github.com/modakbul-gongbang/damso)
+1. ⭐ Starred [blader/humanizer](https://github.com/blader/humanizer)
+2. ⭐ Starred [GitbookIO/gitbook-skills](https://github.com/GitbookIO/gitbook-skills)
+3. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+4. ⭐ Starred [trailhq/Graft](https://github.com/trailhq/Graft)
+5. ⭐ Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
 <!--RECENT_ACTIVITY:end-->
   
 </details>
