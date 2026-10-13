@@ -111,7 +111,7 @@ interests   : ["Sensor Fusion", "MPC Control"]
   <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openai/skills](https://github.com/openai/skills)
+1. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
 2. ⭐ Starred [blader/humanizer](https://github.com/blader/humanizer)
 3. ⭐ Starred [GitbookIO/gitbook-skills](https://github.com/GitbookIO/gitbook-skills)
 4. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
