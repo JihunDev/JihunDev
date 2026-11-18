@@ -1,150 +1,62 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I'm%20Jihun.&fontAlign=70&fontAlignY=40&color=gradient)
-
-<h3 align="center">A passionate Embedded developer from Korea</h3>
+<!--
+  Profile README — fully static, no GitHub Actions.
+  Every dynamic card is rendered on request by an external image service.
+-->
 
 <p align="center">
-  <a href="mailto:Jihun.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/jihun-kim">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://jihundev.github.io">
-    <img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
-  </a>&nbsp;
-  <a href="https://calendly.com/jihun-dev/30min">
-    <img src="https://img.shields.io/badge/Coffee_Chat-00A98F?style=for-the-badge&logo=calendly&logoColor=white" alt="Coffee Chat" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1b27,55:2a3b6e,100:70a5fd&text=Hi!%20I'm%20Jihun.&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Embedded%20Systems%20%C2%B7%20Autonomous%20Driving&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Hi! I'm Jihun." />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&height=45&lines=%2F%2F+A+passionate+Embedded+developer+from+Korea;%2F%2F+Senior+R%26D+Engineer+%C2%B7+Team+Lead;%2F%2F+Embedded+Systems+%C3%97+Autonomous+Driving;%2F%2F+C%2FC%2B%2B+%C2%B7+Rust+%C2%B7+Python+%C2%B7+Embedded+Linux" alt="Typing SVG" />
+</p>
 
-### 👨‍💻 About Me
-```yaml
+<p align="center">
+  <a href="mailto:Jihun.dev@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=70a5fd" alt="Email" /></a>
+  <a href="https://linkedin.com/in/jihun-kim"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzcwYTVmZCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+  <a href="https://jihundev.github.io"><img src="https://img.shields.io/badge/Tech_Blog-1a1b27?style=for-the-badge&logo=rss&logoColor=70a5fd" alt="Tech Blog" /></a>
+  <a href="https://stackoverflow.com/users/5311181"><img src="https://img.shields.io/badge/Stack_Overflow-1a1b27?style=for-the-badge&logo=stackoverflow&logoColor=70a5fd" alt="Stack Overflow" /></a>
+  <a href="https://calendly.com/jihun-dev/30min"><img src="https://img.shields.io/badge/Coffee_Chat-1a1b27?style=for-the-badge&logo=calendly&logoColor=70a5fd" alt="Coffee Chat" /></a>
+</p>
 
-# whoami
-name        : Jihun Kim
-role        : Senior R&D Engineer · Team Lead
-company     : SkyAutoNet Co., Ltd. — Seoul, Korea
-domain      : Embedded Systems / Autonomous Driving
-Tech Stack  : C/C++, Rust, Python, Embedded Linux
+<br />
 
-# growth
-learning    : ["Advanced Rust", "Software Engineering Practices"]
-interests   : ["Sensor Fusion", "MPC Control"]
+### <img src="assets/Hand_Wave.gif" width="28" alt="wave" /> About Me
 
-```
+<p align="center">
+  <img src="assets/about.svg" width="530" alt="Jihun Kim — Role: Senior R&amp;D Engineer · Team Lead; Company: SkyAutoNet · Seoul, Korea; Domain: Embedded Systems · Autonomous Driving; Learning: Advanced Rust · Software Engineering Practices; Interests: Sensor Fusion · MPC Control" />
+  <img src="assets/Night_Coding.gif" width="300" alt="Night coding" />
+</p>
+<p align="center">
+  ✍️ <a href="https://jihundev.github.io">Tech Blog</a> — book reviews &amp; dev notes &nbsp;·&nbsp; ☕ <a href="https://calendly.com/jihun-dev/30min">Book a 30-min coffee chat</a>
+</p>
 
-<details>
-  <summary>Tech Stack</summary>
-  <br>
-  <div align="center">
+### 🛠️ Tech Stack
 
-  <table>
-    <tr>
-      <td align="center" width="120"><b>🔤 Language</b></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original-wordmark.svg" alt="embeddedc" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>🧩 Framework</b></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original-wordmark.svg" alt="ros" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" alt="django Rest" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>💻 IDE</b></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>🛠️ Tools</b></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github Actions" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="assets/techstack-platforms.svg" width="410" alt="Languages: C, C++, Rust, Python; Embedded · Robotics: Embedded C, Embedded Linux, ROS; Web Backend: Django, Django REST, Flask" />
+  <img src="assets/techstack-tools.svg" width="410" alt="Editors: Vim, Neovim, VS Code; DevOps: Git, GitHub, GitHub Actions; Collaboration: Slack, Jira, Confluence" />
+</p>
 
-  </div>
-</details>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=JihunDev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&hide=contribs" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=JihunDev&theme=tokyonight&hide_border=true&border_radius=10" height="150" alt="GitHub Streak" />
+</p>
 
 <details>
-  <summary>CodeKata Activity</summary>
-  <div align="center">
-    <table>
-       <tr>
-        <th>CodeWar</th>
-        <th>LeetCode</th>
-      </tr>
-      <tr>
-        <td align="center">
-          
-![Codewars](https://github.r2v.ch/codewars?user=JihunDev&top_languages=true&theme=dark)
-        </td>
-        <td align="center">
-        
-![LeetCode](https://leetcard.jacoblin.cool/JihunDev?theme=dark&ext=heatmap&border=0)
-        </td>
-      </tr>
-    </table>
-  </div>
+<summary><b>🧩 CodeKata · Q&amp;A</b> <sub><code>// click to expand</code></sub></summary>
+<br />
+<p align="center">
+  <a href="https://www.codewars.com/users/JihunDev"><img src="https://github.r2v.ch/codewars?user=JihunDev&top_languages=true&theme=dark" height="220" alt="Codewars" /></a>
+  <a href="https://leetcode.com/u/JihunDev/"><img src="https://leetcard.jacoblin.cool/JihunDev?theme=dark&ext=heatmap&border=0" height="220" alt="LeetCode" /></a>
+</p>
+<p align="center">
+  <a href="https://stackoverflow.com/users/5311181"><img src="https://stackoverflow.com/users/flair/5311181.png?theme=dark" alt="Stack Overflow profile" /></a>
+</p>
 </details>
 
-<details>
-  <summary>GitHub Activity</summary>
-  <br>
-
-<!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)
-2. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
-3. ⭐ Starred [GitbookIO/gitbook-skills](https://github.com/GitbookIO/gitbook-skills)
-4. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-5. ⭐ Starred [trailhq/Graft](https://github.com/trailhq/Graft)
-<!--RECENT_ACTIVITY:end-->
-  
-</details>
-
-<details>
-  <summary>StackOverFlow Activity</summary>
-  <br>
- 
-<!-- STACKOVERFLOW:START -->
-- [Answer by Jihun Kim for How to use XADC's GPIO on Xilinx KC705 FPGA](https://stackoverflow.com/questions/76014345/how-to-use-xadcs-gpio-on-xilinx-kc705-fpga/76577900#76577900)
-- [Answer by Jihun Kim for A timeout occurs while reading data from Python to HID](https://stackoverflow.com/questions/76469826/a-timeout-occurs-while-reading-data-from-python-to-hid/76571619#76571619)
-- [A timeout occurs while reading data from Python to HID](https://stackoverflow.com/questions/76469826/a-timeout-occurs-while-reading-data-from-python-to-hid)
-- [How to use XADC's GPIO on Xilinx KC705 FPGA](https://stackoverflow.com/questions/76014345/how-to-use-xadcs-gpio-on-xilinx-kc705-fpga)
-- [Comment by Jihun Kim on Car speed measurement using 3-axis accelerometer](https://stackoverflow.com/questions/59171821/car-speed-measurement-using-3-axis-accelerometer/59843250#59843250)
-<!-- STACKOVERFLOW:END -->
-    
-</details>
-  
-<details>
-  <summary>Blog Activity</summary>
-  <br>
-
-<!-- BLOG-POST-LIST:START -->
-- [Rust Web Development 서평](/posts/Rust_Web_Development_%EC%84%9C%ED%8F%89/)
-- [머신러닝 엔지니어링 인 액션 서평](/posts/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%9D%B8-%EC%95%A1%EC%85%98/)
-- [스티븐 울프럼의 챗GPT 강의](/posts/%EC%8A%A4%ED%8B%B0%EB%B8%8C-%EC%9A%B8%ED%94%84%EB%9F%BC%EC%9D%98-%EC%B1%97GPT-%EA%B0%95%EC%9D%98/)
-- [진화적 아키텍처 서평](/posts/%EC%A7%84%ED%99%94%EC%A0%81-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/)
-<!-- BLOG-POST-LIST:END -->
-
-</details>
-
-![waving](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1a1b27,55:2a3b6e,100:70a5fd" width="100%" alt="footer" />
+</p>
