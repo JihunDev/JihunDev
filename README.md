@@ -1,14 +1,10 @@
 <!--
   Profile README — fully static, no GitHub Actions.
-  Every dynamic card is rendered on request by an external image service.
+  assets/*.svg are hand-made (banner, tech stack); stats cards come from external image services.
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1b27,55:2a3b6e,100:70a5fd&text=Hi!%20I'm%20Jihun.&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Embedded%20Systems%20%C2%B7%20Autonomous%20Driving&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Hi! I'm Jihun." />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&height=45&lines=%2F%2F+A+passionate+Embedded+developer+from+Korea;%2F%2F+Senior+R%26D+Engineer+%C2%B7+Team+Lead;%2F%2F+Embedded+Systems+%C3%97+Autonomous+Driving;%2F%2F+C%2FC%2B%2B+%C2%B7+Rust+%C2%B7+Python+%C2%B7+Embedded+Linux" alt="Typing SVG" />
+  <img src="assets/banner.svg" width="100%" alt="Jihun Kim — Senior R&amp;D Engineer · Team Lead @ SkyAutoNet · Embedded Systems · Autonomous Driving · Seoul, Korea" />
 </p>
 
 <p align="center">
@@ -19,17 +15,16 @@
   <a href="https://calendly.com/jihun-dev/30min"><img src="https://img.shields.io/badge/Coffee_Chat-1a1b27?style=for-the-badge&logo=calendly&logoColor=70a5fd" alt="Coffee Chat" /></a>
 </p>
 
-<br />
+<img src="assets/Night_Coding.gif" align="right" width="34%" alt="Night coding" />
 
-### <img src="assets/Hand_Wave.gif" width="28" alt="wave" /> About Me
+### <img src="assets/Hand_Wave.gif" width="26" alt="wave" /> About Me
 
-<p align="center">
-  <img src="assets/about.svg" width="530" alt="Jihun Kim — Role: Senior R&amp;D Engineer · Team Lead; Company: SkyAutoNet · Seoul, Korea; Domain: Embedded Systems · Autonomous Driving; Learning: Advanced Rust · Software Engineering Practices; Interests: Sensor Fusion · MPC Control" />
-  <img src="assets/Night_Coding.gif" width="300" alt="Night coding" />
-</p>
-<p align="center">
-  ✍️ <a href="https://jihundev.github.io">Tech Blog</a> — book reviews &amp; dev notes &nbsp;·&nbsp; ☕ <a href="https://calendly.com/jihun-dev/30min">Book a 30-min coffee chat</a>
-</p>
+I'm **Jihun**, a passionate embedded developer from Korea — currently a Senior R&D Engineer and team lead at **SkyAutoNet**, working on **embedded systems for autonomous driving**.
+
+- 🌱 Currently learning **Advanced Rust** and **Software Engineering Practices**
+- 🔬 Interested in **Sensor Fusion** and **MPC Control**
+- ✍️ Writing book reviews & dev notes on my [Tech Blog](https://jihundev.github.io)
+- ☕ Up for a chat? [Book a 30-min coffee chat](https://calendly.com/jihun-dev/30min)
 
 ### 🛠️ Tech Stack
 
@@ -56,7 +51,3 @@
   <a href="https://stackoverflow.com/users/5311181"><img src="https://stackoverflow.com/users/flair/5311181.png?theme=dark" alt="Stack Overflow profile" /></a>
 </p>
 </details>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1a1b27,55:2a3b6e,100:70a5fd" width="100%" alt="footer" />
-</p>
