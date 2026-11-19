@@ -1,6 +1,6 @@
 <!--
   Profile README — fully static, no GitHub Actions.
-  assets/*.svg are hand-made (banner, tech stack); stats cards come from external image services.
+  assets/banner.svg is hand-made; all other cards come from external image services.
 -->
 
 <p align="center">
@@ -24,14 +24,33 @@ I'm **Jihun**, a passionate embedded developer from Korea — currently a Senior
 - 🌱 Currently learning **Advanced Rust** and **Software Engineering Practices**
 - 🔬 Interested in **Sensor Fusion** and **MPC Control**
 - ✍️ Writing book reviews & dev notes on my [Tech Blog](https://jihundev.github.io)
-- ☕ Up for a chat? [Book a 30-min coffee chat](https://calendly.com/jihun-dev/30min)
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="assets/techstack-platforms.svg" width="410" alt="Languages: C, C++, Rust, Python; Embedded · Robotics: Embedded C, Embedded Linux, ROS; Web Backend: Django, Django REST, Flask" />
-  <img src="assets/techstack-tools.svg" width="410" alt="Editors: Vim, Neovim, VS Code; DevOps: Git, GitHub, GitHub Actions; Collaboration: Slack, Jira, Confluence" />
-</p>
+<div align="center">
+<table>
+  <tr>
+    <th width="240">🔤 Languages</th>
+    <th width="240">🤖 Embedded · Robotics</th>
+    <th width="240">🧩 Web Backend</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=c,cpp,rust,py" height="44" alt="C, C++, Rust, Python" /><br /><sub>C · C++ · Rust · Python</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=linux,ros" height="44" alt="Embedded Linux, ROS" /><br /><sub>Embedded C · Embedded Linux · ROS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=django,flask" height="44" alt="Django, Flask" /><br /><sub>Django · Django REST · Flask</sub></td>
+  </tr>
+  <tr>
+    <th>💻 Editors</th>
+    <th>🔧 DevOps</th>
+    <th>🤝 Collaboration</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=vim,neovim,vscode" height="44" alt="Vim, Neovim, VS Code" /><br /><sub>Vim · Neovim · VS Code</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=git,github,githubactions" height="44" alt="Git, GitHub, GitHub Actions" /><br /><sub>Git · GitHub · GitHub Actions</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" height="40" alt="Slack" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" height="40" alt="Jira" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" height="40" alt="Confluence" /><br /><sub>Slack · Jira · Confluence</sub></td>
+  </tr>
+</table>
+</div>
 
 ### 📊 GitHub Stats
 
@@ -40,14 +59,9 @@ I'm **Jihun**, a passionate embedded developer from Korea — currently a Senior
   <img src="https://streak-stats.demolab.com?user=JihunDev&theme=tokyonight&hide_border=true&border_radius=10" height="150" alt="GitHub Streak" />
 </p>
 
-<details>
-<summary><b>🧩 CodeKata · Q&amp;A</b> <sub><code>// click to expand</code></sub></summary>
-<br />
+### 🧩 CodeKata
+
 <p align="center">
-  <a href="https://www.codewars.com/users/JihunDev"><img src="https://github.r2v.ch/codewars?user=JihunDev&top_languages=true&theme=dark" height="220" alt="Codewars" /></a>
-  <a href="https://leetcode.com/u/JihunDev/"><img src="https://leetcard.jacoblin.cool/JihunDev?theme=dark&ext=heatmap&border=0" height="220" alt="LeetCode" /></a>
+  <a href="https://www.codewars.com/users/JihunDev"><img src="https://github.r2v.ch/codewars?user=JihunDev&top_languages=true&theme=tokyo_night" height="200" alt="Codewars" /></a>
+  <a href="https://leetcode.com/u/JihunDev/"><img src="https://leetcard.jacoblin.cool/JihunDev?ext=heatmap&border=0&radius=10&colors=1a1b27,24283b,70a5fd,a9b1d6,bf91f3,73daca,e0af68,f7768e" height="200" alt="LeetCode" /></a>
 </p>
-<p align="center">
-  <a href="https://stackoverflow.com/users/5311181"><img src="https://stackoverflow.com/users/flair/5311181.png?theme=dark" alt="Stack Overflow profile" /></a>
-</p>
-</details>
