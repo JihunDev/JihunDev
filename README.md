@@ -31,23 +31,29 @@ I'm **Jihun**, a passionate embedded developer from Korea — currently a Senior
 <table>
   <tr>
     <th width="240">🔤 Languages</th>
-    <th width="240">🤖 Embedded · Robotics</th>
-    <th width="240">🧩 Web Backend</th>
+    <th width="240">🔌 Embedded</th>
+    <th width="240">🤖 Robotics</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=c,cpp,rust,py" height="44" alt="C, C++, Rust, Python" /><br /><sub>C · C++ · Rust · Python</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=linux,ros" height="44" alt="Embedded Linux, ROS" /><br /><sub>Embedded C · Embedded Linux · ROS</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=django,flask" height="44" alt="Django, Flask" /><br /><sub>Django · Django REST · Flask</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=linux" height="44" alt="Embedded Linux" /><br /><sub>Embedded C · Embedded Linux</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=ros" height="44" alt="ROS, ROS 2" /><br /><sub>ROS · ROS 2</sub></td>
   </tr>
   <tr>
+    <th>🧩 Web Backend</th>
     <th>💻 Editors</th>
     <th>🔧 DevOps</th>
-    <th>🤝 Collaboration</th>
   </tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=django,flask" height="44" alt="Django, Flask" /><br /><sub>Django · Flask</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=vim,neovim,vscode" height="44" alt="Vim, Neovim, VS Code" /><br /><sub>Vim · Neovim · VS Code</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=git,github,githubactions" height="44" alt="Git, GitHub, GitHub Actions" /><br /><sub>Git · GitHub · GitHub Actions</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" height="40" alt="Slack" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" height="40" alt="Jira" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" height="40" alt="Confluence" /><br /><sub>Slack · Jira · Confluence</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?theme=dark&i=git,github,githubactions,docker" height="44" alt="Git, GitHub, GitHub Actions, Docker" /><br /><sub>Git · GitHub · GitHub Actions · Docker</sub></td>
+  </tr>
+  <tr>
+    <th colspan="3">🤝 Collaboration</th>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="https://api.iconify.design/logos/slack-icon.svg?height=40" height="40" alt="Slack" />&nbsp;&nbsp;<img src="https://api.iconify.design/logos/jira.svg?height=40" height="40" alt="Jira" />&nbsp;&nbsp;<img src="https://api.iconify.design/logos/confluence.svg?height=40" height="40" alt="Confluence" />&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/linear.svg?color=%235E6AD2&amp;height=40" height="40" alt="Linear" />&nbsp;&nbsp;<img src="https://api.iconify.design/logos/notion-icon.svg?height=40" height="40" alt="Notion" /><br /><sub>Slack · Jira · Confluence · Linear · Notion</sub></td>
   </tr>
 </table>
 </div>
